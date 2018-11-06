@@ -1,0 +1,1 @@
+lstm_practice.py - example for how to create lstm's in keras
