@@ -100,9 +100,9 @@ if __name__ == '__main__':
 							line = " ".join(words[1:])
 							parts = line.split("\t")
 							for p in parts:
-								if "__SILENCE__" not in p:
-									# conversations.append(p)
-									dialogue_out.write(p + '\n')
+								# if "__SILENCE__" not in p:
+								# 	# conversations.append(p)
+								dialogue_out.write(p + '\n')
 						elif "your persona:" in line:
 							if not in_persona:
 								your_persona = ""
