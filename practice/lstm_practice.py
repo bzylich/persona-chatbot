@@ -1,3 +1,7 @@
+# Created by: Albert Enyedy and Brian Zylich
+
+# build a simple LSTM network in keras
+
 import numpy as np
 from keras.models import Sequential
 from keras.layers import Dense, LSTM, Activation, Embedding, TimeDistributed, Lambda

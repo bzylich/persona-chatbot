@@ -1,4 +1,7 @@
 # -*- coding: utf-8 -*-
+# Modified by: Albert Enyedy and Brian Zylich
+
+# predicts persona using 100 random samples from Persona-Chat dataset
 
 __author__ = 'Oswaldo Ludwig'
 __version__ = '1.01'

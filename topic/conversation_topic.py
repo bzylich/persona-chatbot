@@ -1,5 +1,11 @@
 # -*- coding: utf-8 -*-
 
+# Modified by: Albert Enyedy and Brian Zylich
+# 
+# We add an additional fully connected layer for topic-modeling and expand the vocabulary used.
+# Furthermore, we implement two new methods of decoding responses in addition to greedy decoding:
+# traditional beam search and Diverse Beam Search (https://arxiv.org/abs/1610.02424)
+
 __author__ = 'Oswaldo Ludwig'
 __version__ = '1.01'
 

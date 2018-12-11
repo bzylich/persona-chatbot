@@ -1,3 +1,7 @@
+# Created by: Albert Enyedy and Brian Zylich
+
+# investigate how to use ELMo embeddings in a keras model
+
 import numpy as np
 from keras.models import Sequential
 from keras.layers import Dense, LSTM, Activation, Embedding, TimeDistributed, Lambda

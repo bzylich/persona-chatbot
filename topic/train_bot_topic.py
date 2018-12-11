@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
 
+# Modified by: Albert Enyedy and Brian Zylich
+# 
+# We add an additional fully connected layer for topic-modeling and expand the vocabulary used.
+
 __author__ = 'Oswaldo Ludwig'
 __version__ = '1.01'
 

@@ -1,4 +1,8 @@
 # -*- coding: utf-8 -*-
+# Modified by: Albert Enyedy and Brian Zylich
+
+# uses clustered word embeddings to create a vocabulary of 8000 words and a mapping of 
+# almost 50K words to that set of 8000, then vectorizes data for training
 
 __author__ = 'Oswaldo Ludwig'
 __version__ = '1.01'

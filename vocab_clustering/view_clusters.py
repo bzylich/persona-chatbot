@@ -1,3 +1,5 @@
+__author__ = "Brian Zylich"
+
 from sklearn.manifold import TSNE
 import matplotlib.pyplot as plt
 import numpy as np

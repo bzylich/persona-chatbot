@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
 __author__ = 'Oswaldo Ludwig'
-__version__ = '1.01'
 
 from keras.layers import Input, Embedding, LSTM, Dense, RepeatVector, Dropout, merge
 from keras.optimizers import Adam 

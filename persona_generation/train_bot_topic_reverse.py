@@ -1,4 +1,7 @@
 # -*- coding: utf-8 -*-
+# Modified by: Albert Enyedy and Brian Zylich
+
+# trains persona predictor on Persona-Chat
 
 __author__ = 'Oswaldo Ludwig'
 __version__ = '1.01'

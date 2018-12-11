@@ -1,4 +1,7 @@
 # -*- coding: utf-8 -*-
+# Modified by: Albert Enyedy and Brian Zylich
+
+# predicts persona using castlevania dialogue dataset
 
 __author__ = 'Oswaldo Ludwig'
 __version__ = '1.01'

@@ -1,4 +1,7 @@
 # -*- coding: utf-8 -*-
+# Modified by: Albert Enyedy and Brian Zylich
+
+# creates a vocabulary of 8000 most frequent words and vectorizes data for training
 
 __author__ = 'Oswaldo Ludwig'
 __version__ = '1.01'

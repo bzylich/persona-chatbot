@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
-# editor -- me
+# Modified by: Albert Enyedy and Brian Zylich
+
+# prepares Persona-Chat dataset for persona prediction
+
 __author__ = 'Oswaldo Ludwig'
 __version__ = '1.01'
 

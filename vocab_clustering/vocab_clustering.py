@@ -1,3 +1,5 @@
+__author__ = "Brian Zylich"
+
 from sklearn.cluster import KMeans
 import numpy as np
 import os

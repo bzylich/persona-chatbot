@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+# Created by: Albert Enyedy and Brian Zylich
+
+# used to parse the Persona-Chat dataset into a format that is easier for us to process
+
 import numpy as np
 from keras.models import Sequential
 from keras.layers import Dense, LSTM, Activation, Embedding, TimeDistributed, Lambda, Dropout

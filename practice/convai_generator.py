@@ -1,3 +1,7 @@
+# Created by: Albert Enyedy and Brian Zylich
+
+# generates batches from convai data
+
 from keras.utils import Sequence
 import numpy as np
 import linecache

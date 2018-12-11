@@ -1,4 +1,7 @@
 # -*- coding: utf-8 -*-
+# Modified by: Albert Enyedy and Brian Zylich
+
+# splits Persona-Chat dataset such that personas are included with each line of dialogue
 
 __author__ = 'Oswaldo Ludwig'
 __version__ = '1.01'

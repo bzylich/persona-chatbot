@@ -1,4 +1,7 @@
 # -*- coding: utf-8 -*-
+# Modified by: Albert Enyedy and Brian Zylich
+
+# uses persona as input to seq2seq model for more consistent responses
 
 __author__ = 'Oswaldo Ludwig'
 __version__ = '1.01'
