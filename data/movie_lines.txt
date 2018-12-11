@@ -1,0 +1,1614 @@
+L1045 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ They do not!
+L1044 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ They do to!
+L985 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ I hope so.
+L984 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ She okay?
+L925 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Let's go.
+L924 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Wow
+L872 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Okay -- you're gonna need to learn how to lie.
+L871 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ No
+L870 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ I'm kidding.  You know how sometimes you just become this "persona"?  And you don't know how to quit?
+L869 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Like my fear of wearing pastels?
+L868 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The "real you".
+L867 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What good stuff?
+L866 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I figured you'd get to the good stuff eventually.
+L865 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Thank God!  If I had to hear one more story about your coiffure...
+L864 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Me.  This endless ...blonde babble. I'm like, boring myself.
+L863 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ What crap?
+L862 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ do you listen to this crap?
+L861 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ No...
+L860 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Then Guillermo says, "If you go any lighter, you're gonna look like an extra on 90210."
+L699 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ You always been this selfish?
+L698 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ But
+L697 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Then that's all you had to say.
+L696 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Well, no...
+L695 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ You never wanted to go out with 'me, did you?
+L694 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ I was?
+L693 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I looked for you back at the party, but you always seemed to be "occupied".
+L663 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Tons
+L662 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Have fun tonight?
+L578 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I believe we share an art instructor
+L577 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ You know Chastity?
+L576 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Looks like things worked out tonight, huh?
+L575 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Hi.
+L407 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Who knows?  All I've ever heard her say is that she'd dip before dating a guy that smokes.
+L406 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ So that's the kind of guy she likes? Pretty ones?
+L405 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Lesbian?  No. I found a picture of Jared Leto in one of her drawers, so I'm pretty sure she's not harboring same-sex tendencies.
+L404 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ She's not a...
+L403 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I'm workin' on it. But she doesn't seem to be goin' for him.
+L402 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ I really, really, really wanna go, but I can't.  Not unless my sister goes.
+L401 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Sure have.
+L368 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Eber's Deep Conditioner every two days. And I never, ever use a blowdryer without the diffuser attachment.
+L367 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ How do you get your hair to look like that?
+L366 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ You're sweet.
+L365 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ You have my word.  As a gentleman
+L364 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ I counted on you to help my cause. You and that thug are obviously failing. Aren't we ever going on our date?
+L363 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ You got something on your mind?
+L281 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Where?
+L280 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ There.
+L277 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Well, there's someone I think might be --
+L276 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How is our little Find the Wench A Date plan progressing?
+L275 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Forget French.
+L274 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ That's because it's such a nice one.
+L273 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ I don't want to know how to say that though.  I want to know useful things. Like where the good stores are.  How much does champagne cost?  Stuff like Chat.  I have never in my life had to point out my head to someone.
+L272 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Right.  See?  You're ready for the quiz.
+L271 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ C'esc ma tete. This is my head
+L208 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Let me see what I can do.
+L207 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Gosh, if only we could find Kat a boyfriend...
+L206 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ That's a shame.
+L205 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Unsolved mystery.  She used to be really popular when she started high school, then it was just like she got sick of it or something.
+L204 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Why?
+L203 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Seems like she could get a date easy enough...
+L202 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ The thing is, Cameron -- I'm at the mercy of a particularly hideous breed of loser.  My sister.  I can't date until she does.
+L201 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Cameron.
+L200 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ No, no, it's my fault -- we didn't have a proper introduction ---
+L199 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Forget it.
+L198 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ You're asking me out.  That's so cute. What's your name again?
+L197 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Okay... then how 'bout we try out some French cuisine.  Saturday?  Night?
+L196 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Not the hacking and gagging and spitting part.  Please.
+L195 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Well, I thought we'd start with pronunciation, if that's okay with you.
+L194 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Can we make this quick?  Roxanne Korrine and Andrew Barrett are having an incredibly horrendous public break- up on the quad.  Again.
+L953 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ I did.
+L952 +++$+++ u3 +++$+++ m0 +++$+++ CHASTITY +++$+++ You think you ' re the only sophomore at the prom?
+L660 +++$+++ u3 +++$+++ m0 +++$+++ CHASTITY +++$+++ I don't have to be home 'til two.
+L659 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ I have to be home in twenty minutes.
+L600 +++$+++ u3 +++$+++ m0 +++$+++ CHASTITY +++$+++ All I know is -- I'd give up my private line to go out with a guy like Joey.
+L599 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Sometimes I wonder if the guys we're supposed to want to go out with are the ones we actually want to go out with, you know?
+L598 +++$+++ u3 +++$+++ m0 +++$+++ CHASTITY +++$+++ Bianca, I don't think the highlights of dating Joey Dorsey are going to include door-opening and coat-holding.
+L597 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Combination.  I don't know -- I thought he'd be different.  More of a gentleman...
+L596 +++$+++ u3 +++$+++ m0 +++$+++ CHASTITY +++$+++ Is he oily or dry?
+L595 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ He practically proposed when he found out we had the same dermatologist. I mean. Dr. Bonchowski is great an all, but he's not exactly relevant party conversation.
+L580 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Would you mind getting me a drink, Cameron?
+L579 +++$+++ u3 +++$+++ m0 +++$+++ CHASTITY +++$+++ Great
+L573 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Joey.
+L572 +++$+++ u3 +++$+++ m0 +++$+++ CHASTITY +++$+++ Who?
+L571 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Where did he go?  He was just here.
+L51 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ You might wanna think about it
+L50 +++$+++ u3 +++$+++ m0 +++$+++ CHASTITY +++$+++ No.
+L49 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Did you change your hair?
+L760 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ You know the deal.  I can ' t go if Kat doesn't go --
+L759 +++$+++ u4 +++$+++ m0 +++$+++ JOEY +++$+++ Listen, I want to talk to you about the prom.
+L758 +++$+++ u4 +++$+++ m0 +++$+++ JOEY +++$+++ You're concentrating awfully hard considering it's gym class.
+L757 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Hi, Joey.
+L756 +++$+++ u4 +++$+++ m0 +++$+++ JOEY +++$+++ Hey, sweet cheeks.
+L593 +++$+++ u4 +++$+++ m0 +++$+++ JOEY +++$+++ My agent says I've got a good shot at being the Prada guy next year.
+L592 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Neat...
+L591 +++$+++ u4 +++$+++ m0 +++$+++ JOEY +++$+++ It's a gay cruise line, but I'll be, like, wearing a uniform and stuff.
+L590 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Queen Harry?
+L589 +++$+++ u4 +++$+++ m0 +++$+++ JOEY +++$+++ So yeah, I've got the Sears catalog thing going -- and the tube sock gig " that's gonna be huge.  And then I'm up for an ad for Queen Harry next week.
+L397 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Hopefully.
+L396 +++$+++ u4 +++$+++ m0 +++$+++ JOEY +++$+++ Exactly  So, you going to Bogey Lowenbrau's thing on Saturday?
+L395 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Expensive?
+L394 +++$+++ u4 +++$+++ m0 +++$+++ JOEY +++$+++ It's more
+L1052 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Perm?
+L1051 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Patrick -- is that- a.
+L1022 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ It's just you.
+L1021 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Is that woman a complete fruit-loop or is it just me?
+L1011 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ No! I just wanted
+L1010 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ What? To completely damage me?  To send me to therapy forever? What?
+L1009 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ I just wanted --
+L1008 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ You set me up.
+L1007 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Let go!
+L983 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ So did you
+L982 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ You looked beautiful last night, you know.
+L914 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ I guess I'll never know, will I?
+L913 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Not all experiences are good, Bianca. You can't always trust the people you want to.
+L912 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ God, you're just like him! Just keep me locked away in the dark, so I can't experience anything for myself
+L911 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ I guess I thought I was protecting you.
+L910 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ I'm not stupid enough to repeat your mistakes.
+L909 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ That's not
+L908 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ No. you didn't!  If you really thought I could make my own decisions, you would've let me go out with him instead of helping Daddy hold me hostage.
+L907 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ I wanted to let you make up your own mind about him.
+L906 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Why didn't you tell me?
+L905 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ After that, I swore I'd never do anything just because "everyone else" was doing it.  And I haven't since. Except for Bogey's party, and my stunning gastro-intestinal display --
+L904 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ But
+L903 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Just once.  Afterwards, I told him I didn't want to anymore.  I wasn't ready. He got pissed.  Then he broke up with me.
+L902 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ You did what?
+L901 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ He said everyone was doing it.  So I did it.
+L900 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ As in...
+L899 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Now I do.  Back then, was a different story.
+L898 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ But you hate Joey
+L897 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ He was, like, a total babe
+L896 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Why?
+L895 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ In 9th.  For a month
+L894 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What?
+L893 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Joey never told you we went out, did he?
+L892 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ I wish I had that luxury. I'm the only sophomore that got asked to the prom and I can't go, because you won ' t.
+L891 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ I do care. But I'm a firm believer in doing something for your own reasons, not someone else ' s .
+L890 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Like you care.
+L889 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Listen, I know you hate having to sit home because I'm not Susie High School.
+L656 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ You're welcome.
+L655 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ I don't get you.  You act like you're too good for any of this, and then you go totally apeshit when you get here.
+L602 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ I really don't think I need any social advice from you right now.
+L601 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Bianca, I need to talk to you -- I need to tell you --
+L543 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Can we go now?
+L542 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ You are so completely unbalanced.
+L533 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Yeah, he's your freak friend Mandella's boyfriend.  I guess since I'm not allowed to go out, I should obsess over a dead guy, too.
+L532 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ It's Shakespeare.  Maybe you've heard of him?
+L531 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Like I'm supposed to know what that even means.
+L530 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ At least I'm not a clouted fen- sucked hedge-pig.
+L529 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Can't you forget for just one night that you're completely wretched?
+L527 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Bogey Lowenstein's party is normal, but you're too busy listening to Bitches Who Need Prozac to know that.
+L526 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ What's normal?
+L525 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ You're ruining my life'  Because you won't be normal, I can't be normal.
+L445 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ I think you're a freak.  I think you do this to torture me.  And I think you suck.
+L444 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ What do you think?
+L443 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Oh, I thought you might have a date  I don't know why I'm bothering to ask, but are you going to Bogey Lowenstein's party Saturday night?
+L442 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ It means that Gigglepuss is playing at Club Skunk and we're going.
+L441 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Oh my God, does this mean you're becoming normal?
+L320 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Can you at least start wearing a bra?
+L319 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ I have the potential to smack the crap out of you if you don't get out of my way.
+L165 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Nowhere... Hi, Daddy.
+L164 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Where've you been?
+L923 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ I have a date, Daddy.  And he ' s not a captain of oppression like some men we know.
+L922 +++$+++ u11 +++$+++ m0 +++$+++ WALTER +++$+++ I'm missing something.
+L884 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Fine.  I see that I'm a prisoner in my own house.  I'm not a daughter. I'm a possession!
+L883 +++$+++ u11 +++$+++ m0 +++$+++ WALTER +++$+++ You're not going unless your sister goes.  End of story.
+L882 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ He's not a "hot rod".  Whatever that is.
+L881 +++$+++ u11 +++$+++ m0 +++$+++ WALTER +++$+++ It's that hot rod Joey, right? That ' s who you want me to bend my rules for?
+L880 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ No, but
+L879 +++$+++ u11 +++$+++ m0 +++$+++ WALTER +++$+++ The prom?  Kat has a date?
+L878 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Daddy, I want to discuss the prom with you. It's tomorrow night --
+L546 +++$+++ u11 +++$+++ m0 +++$+++ WALTER +++$+++ Because she'll scare them away.
+L545 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Why?
+L544 +++$+++ u11 +++$+++ m0 +++$+++ WALTER +++$+++ Promise me you won't talk to any boys unless your sister is present.
+L540 +++$+++ u11 +++$+++ m0 +++$+++ WALTER +++$+++ Just for a minute
+L539 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Daddy, no!
+L538 +++$+++ u11 +++$+++ m0 +++$+++ WALTER +++$+++ Wear the belly before you go.
+L537 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ It's just a party. Daddy.
+L536 +++$+++ u11 +++$+++ m0 +++$+++ WALTER +++$+++ Oh, God.  It's starting.
+L524 +++$+++ u11 +++$+++ m0 +++$+++ WALTER +++$+++ If Kat's not going, you're not going.
+L523 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Daddy, people expect me to be there!
+L521 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ It's just a party. Daddy, but I knew you'd forbid me to go since "Gloria Steinem" over there isn't going --
+L520 +++$+++ u11 +++$+++ m0 +++$+++ WALTER +++$+++ Otherwise known as an orgy?
+L519 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ If you must know, we were attempting to go to a small study group of friends.
+L518 +++$+++ u11 +++$+++ m0 +++$+++ WALTER +++$+++ And where're you going?
+L517 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Daddy, I --
+L190 +++$+++ u11 +++$+++ m0 +++$+++ WALTER +++$+++ Exactly my point
+L189 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ But she doesn't want to date.
+L183 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ But it's not fair -- she's a mutant, Daddy!
+L182 +++$+++ u11 +++$+++ m0 +++$+++ WALTER +++$+++ Then neither will you.  And I'll get to sleep at night.
+L181 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What if she never starts dating?
+L180 +++$+++ u11 +++$+++ m0 +++$+++ WALTER +++$+++ No! You're not dating until your sister starts dating.  End of discussion.
+L179 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Now don't get upset. Daddy, but there's this boy... and I think he might ask...
+L463 +++$+++ u1 +++$+++ m0 +++$+++ BRUCE +++$+++ Just sent 'em through.
+L462 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Padua girls.  One tall, decent body. The other one kinda short and undersexed?
+L461 +++$+++ u1 +++$+++ m0 +++$+++ BRUCE +++$+++ Never
+L460 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Fan of a fan.  You see a couple of minors come in?
+L459 +++$+++ u1 +++$+++ m0 +++$+++ BRUCE +++$+++ Didn't have you pegged for a Gigglepuss fan.  Aren't they a little too pre-teen belly-button ring for you?
+L458 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Always a pleasure, Brucie.
+L779 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ Best case scenario, you're back on the payroll for awhile.
+L778 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ You humiliated the woman! Sacrifice yourself on the altar of dignity and even the score.
+L586 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ No, I ' m not.
+L585 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ Buttholus extremus.  But hey, you're making progress.
+L584 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The hell is that?  What kind of 'guy just picks up a girl and carries her away while you're talking to her?
+L583 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ Extremely unfortunate maneuver.
+L500 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Hell, I've just been going over the whole thing in my head and -
+L499 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ You told me that part already.
+L433 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ It's her favorite band.
+L432 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ Assail your ears for one night.
+L425 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Okay!  I wasn't sure
+L424 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ He's pretty!
+L419 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ Dead at forty-one.
+L418 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Her favorite uncle
+L417 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ It's a lung cancer issue
+L416 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Number one.  She hates smokers
+L391 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ Are you kidding?  He'll piss himself with joy.  He's the ultimate kiss ass.
+L390 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Will Bogey get bent?
+L389 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ In that case, we'll need to make it a school-wide blow out.
+L388 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ This is it.  A golden opportunity. Patrick can ask Katarina to the party.
+L245 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ Like we had a choice?  Besides -- when you let the enemy think he's orchestrating the battle, you're in a position of power. We let him pretend he's calling the shots, and while he's busy setting up the plan, you have time to woo Bianca.
+L244 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ You got him involved?
+L225 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ Hey -- I've gotta have a few clients when I get to Wall Street.
+L224 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I thought you hated those people.
+L223 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ You know, if you do go out with Bianca, you'd be set.  You'd outrank everyone. Strictly A-list.  With me by your side.
+L222 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ That's what I just said
+L221 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ Did she actually say she'd go out with you?
+L220 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Forget his reputation.  Do you think we've got a plan or not?
+L219 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ I'm serious, man, he's whacked.  He sold his own liver on the black market so he could buy new speakers.
+L218 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ They always let felons sit in on Honors Biology?
+L217 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ No kidding.  He's a criminal.  I heard he lit a state trooper on fire.  He just got out of Alcatraz...
+L216 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ He seems like he thrives on danger
+L215 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ What makes you think he'll do it?
+L213 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ You wanna go out with him?
+L212 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ What about him?
+L211 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ Unlikely, but even so, she still can't go out with you.  So what's the point?
+L210 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I teach her French, get to know her, dazzle her with charm and she falls in love with me.
+L159 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ The mewling, rampalian wretch herself.
+L158 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ That's her?  Bianca's sister?
+L157 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ Yeah, just a minor encounter with the shrew.
+L147 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ You could consecrate with her, my friend.
+L146 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ You mean I'd get a chance to talk to her?
+L145 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ Guess who just signed up for a tutor?
+L144 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Sure do ... my Mom's from Canada
+L143 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ You know French?
+L142 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ Joey Dorsey?  Perma-shit-grin.  I wish I could say he's a moron, but he's number twelve in the class.  And a model.  Mostly regional stuff, but he's rumored to have a big tube sock ad coming out.
+L141 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ He always have that shit-eating grin?
+L140 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ Because they're bred to.  Their mothers liked guys like that, and their grandmothers before them. Their gene pool is rarely diluted.
+L139 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Why do girls like that always like guys like that?
+L92 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ I could start with your haircut, but it doesn't matter.  She's not allowed to date until her older sister does.  And that's an impossibility.
+L91 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Why not?
+L90 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ Bianca Stratford.  Sophomore. Don't even think about it
+L89 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Who is she?
+L88 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ You burn, you pine, you perish?
+L87 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ That girl -- I --
+L78 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ Yeah, but these guys have never seen a horse.  They just jack off to Clint Eastwood.
+L77 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ That I'm used to.
+L74 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ Couple thousand. Most of them evil
+L73 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ How many people go here?
+L72 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ Get out!
+L71 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Thirty-two.
+L70 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ How many people were in your old school?
+L69 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Yeah.  A couple.  We're outnumbered by the cows, though.
+L68 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ I was kidding. People actually live there?
+L67 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ North, actually.  How'd you   ?
+L66 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ So -- which Dakota you from?
+L65 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ C'mon.  I'm supposed to give you the tour.
+L64 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ So they tell me...
+L63 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ You the new guy?
+L781 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ You get the girl.
+L780 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ What's the worst?
+L745 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Where?
+L744 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ She kissed me.
+L743 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ You makin' any headway?
+L741 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ She just needs time to cool off I'll give it a day.
+L740 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ She hates you with the fire of a thousand suns .  That's a direct quote
+L726 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ I don ' t know.  I decided not to nail her when she was too drunk to remember it.
+L725 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ What'd you do to her?
+L625 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Then, go get her
+L624 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Sure
+L623 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Cameron -- do you like the girl?
+L622 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ She's partial to Joey, not me
+L621 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ What 're you talking about?
+L620 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ It's off. The whole thing.
+L619 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Cameron, I'm a little busy
+L431 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Don't make me do it, man
+L430 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Gigglepuss is playing there tomorrow night.
+L427 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ So what does that give me?  I'm supposed to buy her some noodles and a book and sit around listening to chicks who can't play their instruments?
+L426 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Okay -- Likes:  Thai food, feminist prose, and "angry, stinky girl music of the indie-rock persuasion".
+L412 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I've retrieved certain pieces of information on Miss Katarina Stratford I think you'll find helpful.
+L411 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ What've you got for me?
+L386 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Yeah -- we'll see.
+L385 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ And he means that strictly in a non- prison-movie type of way.
+L558 +++$+++ u4 +++$+++ m0 +++$+++ JOEY +++$+++ And why would I do that?
+L557 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Leave my sister alone.
+L556 +++$+++ u4 +++$+++ m0 +++$+++ JOEY +++$+++ Your sister here?
+L555 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Away.
+L554 +++$+++ u4 +++$+++ m0 +++$+++ JOEY +++$+++ Where ya goin?
+L336 +++$+++ u4 +++$+++ m0 +++$+++ JOEY +++$+++ Not at all
+L335 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Hey -- do you mind?
+L150 +++$+++ u4 +++$+++ m0 +++$+++ JOEY +++$+++ They're running the rest of me next month.
+L149 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Yeah, and I noticed the only part of you featured in your big Kmart spread was your elbow.  Tough break.
+L148 +++$+++ u4 +++$+++ m0 +++$+++ JOEY +++$+++ The vintage look is over, Kat. Haven't you been reading your Sassy?
+L748 +++$+++ u4 +++$+++ m0 +++$+++ JOEY +++$+++ Enough with the Barbie n' Ken shit. I know.
+L747 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ I don't know, Dorsey. ..the limo.-the flowers.  Another hundred for the tux --
+L609 +++$+++ u4 +++$+++ m0 +++$+++ JOEY +++$+++ Get her to act like a human
+L608 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Do what?
+L607 +++$+++ u4 +++$+++ m0 +++$+++ JOEY +++$+++ How'd you do it?
+L606 +++$+++ u4 +++$+++ m0 +++$+++ JOEY +++$+++ A deal's a deal.
+L605 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ It's about time.
+L358 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Forget her sister, then.
+L357 +++$+++ u4 +++$+++ m0 +++$+++ JOEY +++$+++ Forget it.
+L356 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ A hundred bucks a date.
+L355 +++$+++ u4 +++$+++ m0 +++$+++ JOEY +++$+++ What?
+L354 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ I just upped my price
+L352 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ I got her under control. She just acts crazed in public to keep up the image.
+L351 +++$+++ u4 +++$+++ m0 +++$+++ JOEY +++$+++ Watching the bitch trash my car doesn't count as a date.
+L350 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ I'm on it
+L349 +++$+++ u4 +++$+++ m0 +++$+++ JOEY +++$+++ When I shell out fifty, I expect results.
+L301 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Fifty, and you've got your man.
+L300 +++$+++ u4 +++$+++ m0 +++$+++ JOEY +++$+++ Take it or leave it.  This isn't a negotiation.
+L299 +++$+++ u4 +++$+++ m0 +++$+++ JOEY +++$+++ Fine, thirty.
+L298 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ I can't take a girl like that out on twenty bucks.
+L297 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ How much?
+L296 +++$+++ u4 +++$+++ m0 +++$+++ JOEY +++$+++ I can't date her sister until that one gets a boyfriend.  And that's the catch. She doesn't want a boyfriend.
+L295 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ You're gonna pay me to take out some girl?
+L294 +++$+++ u4 +++$+++ m0 +++$+++ JOEY +++$+++ You got it, Verona.  I pick up the tab, you do the honors.
+L292 +++$+++ u4 +++$+++ m0 +++$+++ JOEY +++$+++ But you'd go out with her if you had the cake?
+L291 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ You need money to take a girl out
+L290 +++$+++ u4 +++$+++ m0 +++$+++ JOEY +++$+++ You just said
+L289 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Sure, Sparky.  I'll get right on it.
+L288 +++$+++ u4 +++$+++ m0 +++$+++ JOEY +++$+++ Yeah, whatever.  I want you to go out with her.
+L287 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Two legs, nice rack...
+L286 +++$+++ u4 +++$+++ m0 +++$+++ JOEY +++$+++ What do you think?
+L285 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Yeah
+L509 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ Hey -- it's all for the higher good right?
+L508 +++$+++ u4 +++$+++ m0 +++$+++ JOEY +++$+++ You better not fuck this up.  I'm heavily invested.
+L505 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ What?  We took bathes together when we were kids.
+L504 +++$+++ u4 +++$+++ m0 +++$+++ JOEY +++$+++ You and Verona?
+L503 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ Uh,  yeah.  We're old friend*
+L502 +++$+++ u4 +++$+++ m0 +++$+++ JOEY +++$+++ I hear you're helpin' Verona.
+L240 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ So what you need to do is recruit a guy who'll go out with her.  Someone who's up for the job.
+L239 +++$+++ u4 +++$+++ m0 +++$+++ JOEY +++$+++ Does this conversation have a purpose?
+L238 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ But she can't go out with you because her sister is this insane head case and no one will go out with her. right?
+L236 +++$+++ u4 +++$+++ m0 +++$+++ JOEY +++$+++ We're not.
+L235 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ Well, actually, I thought I'd run an idea by you.  You know, just to see if you're interested.
+L234 +++$+++ u4 +++$+++ m0 +++$+++ JOEY +++$+++ We don't chat.
+L233 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ Nope - just came by to chat
+L232 +++$+++ u4 +++$+++ m0 +++$+++ JOEY +++$+++ Are you lost?
+L231 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ Hey.
+L949 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Oh, honey -- tell me we haven't' progressed to full-on hallucinations.
+L948 +++$+++ u6 +++$+++ m0 +++$+++ MANDELLA +++$+++ William - he asked me to meet him here.
+L947 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Who?
+L946 +++$+++ u6 +++$+++ m0 +++$+++ MANDELLA +++$+++ Have you seen him?
+L755 +++$+++ u6 +++$+++ m0 +++$+++ MANDELLA +++$+++ Oh, good.  Something new and different for us.
+L754 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ You ' re looking at this from the wrong perspective.  We're making a statement.
+L753 +++$+++ u6 +++$+++ m0 +++$+++ MANDELLA +++$+++ Okay, okay, we won't go.  It's not like I have a dress anyway
+L752 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Listen to you!  You sound like Betty, all pissed off because Archie is taking Veronica.
+L751 +++$+++ u6 +++$+++ m0 +++$+++ MANDELLA +++$+++ Well, I guess we're not, since we don't have dates .
+L750 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Can you even imagine?  Who the hell would go to this a bastion of commercial excess?
+L721 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ I got drunk.  I puked.  I got rejected. It was big fun.
+L720 +++$+++ u6 +++$+++ m0 +++$+++ MANDELLA +++$+++ You didn't
+L719 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ I did Bianca a favor and it backfired.
+L718 +++$+++ u6 +++$+++ m0 +++$+++ MANDELLA +++$+++ You didn't have a choice?  Where's Kat and what have you done with her?
+L717 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ I didn't have a choice.
+L716 +++$+++ u6 +++$+++ m0 +++$+++ MANDELLA +++$+++ You went to the party?  I thought we were officially opposed to suburban social activity.
+L491 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Who cares?
+L490 +++$+++ u6 +++$+++ m0 +++$+++ MANDELLA +++$+++ What'd he say?
+L448 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ No fear.
+L447 +++$+++ u6 +++$+++ m0 +++$+++ MANDELLA +++$+++ You think this'll work?
+L254 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ If I was Bianca, it would be, "Any school you want, precious.  Don't forget your tiara."
+L253 +++$+++ u6 +++$+++ m0 +++$+++ MANDELLA +++$+++ Does it matter?
+L252 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ I appreciate your efforts toward a speedy death, but I'm consuming.  Do you mind?
+L251 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Neither has his heterosexuality.
+L250 +++$+++ u6 +++$+++ m0 +++$+++ MANDELLA +++$+++ That's never been proven
+L249 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ William didn't even go to high school
+L248 +++$+++ u6 +++$+++ m0 +++$+++ MANDELLA +++$+++ William would never have gone to a state school.
+L247 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ So he has this huge raging fit about Sarah Lawrence and insists that I go to his male-dominated, puking frat boy, number one golf team school. I have no say at all.
+L152 +++$+++ u6 +++$+++ m0 +++$+++ MANDELLA +++$+++ You could always go with me.  I'm sure William has some friends.
+L151 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ The people at this school are so incredibly foul.
+L134 +++$+++ u6 +++$+++ m0 +++$+++ MANDELLA +++$+++ But imagine the things he'd say during sex.
+L133 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ I realize that the men of this fine institution are severely lacking, but killing yourself so you can be with William Shakespeare is beyond the scope of normal teenage obsessions.  You're venturing far past daytime talk show fodder and entering the world of those who need very expensive therapy.
+L132 +++$+++ u6 +++$+++ m0 +++$+++ MANDELLA +++$+++ An attempted slit.
+L131 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ What's this?
+L130 +++$+++ u6 +++$+++ m0 +++$+++ MANDELLA +++$+++ Just a little.
+L129 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Mandella, eat.  Starving yourself is a very slow way to die.
+L128 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Block E?
+L127 +++$+++ u6 +++$+++ m0 +++$+++ MANDELLA +++$+++ He always look so
+L126 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ I'm sure he's completely incapable of doing anything that interesting.
+L125 +++$+++ u6 +++$+++ m0 +++$+++ MANDELLA +++$+++ That's Pat Verona? The one who was gone for a year? I heard he was doing porn movies.
+L124 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Patrick Verona   Random skid.
+L123 +++$+++ u6 +++$+++ m0 +++$+++ MANDELLA +++$+++ Who's that?
+L1043 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Don ' t you even dare. . .
+L1042 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Oh, Bianca?  Can you get me my freshman yearbook?
+L1041 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Because I like to torture you.
+L1040 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Why is my veggie burger the only burnt object on this grill?
+L1035 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Yeah, but then I fucked up. I fell for her.
+L1034 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Is that right?
+L1033 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Besides, I had some extra cash. Some asshole paid me to take out a really great girl.
+L1032 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ I thought you could use it. When you start your band.
+L1031 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ A Fender Strat. You bought this?
+L977 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ I didn't care about the money.
+L976 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Really?  What was it like?  A down payment now, then a bonus for sleeping with me?
+L975 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ It wasn't like that.
+L974 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ You were paid to take me out!  By -- the one person I truly hate.  I knew it was a set-up!
+L973 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Wait I...
+L961 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ It gets worse -- you still have your freshman yearbook?
+L960 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ That ' s completely adorable!
+L959 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ That's where I was last year.  She'd never lived alone -- my grandfather died -- I stayed with her.  I wasn't in jail, I don't know Marilyn Manson, and I've never slept with a Spice Girl.  I spent a year sitting next to my grandma on the couch watching Wheel of Fortune.  End of story.
+L958 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ What?
+L957 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ My grandmother's .
+L940 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Look, I'm  -- sorry -- that I questioned your motives.  I was wrong.
+L939 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Oh huh
+L938 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ It's just something I had.  You know
+L937 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ It's Scurvy's.  His date got convicted. Where'd you get the dress?
+L936 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ How'd you get a tux at the last minute?
+L857 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Nothing!  There's nothing in it for me. Just the pleasure of your company.
+L856 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Answer the question, Patrick
+L855 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ You need therapy.  Has anyone ever told you that?
+L854 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ You tell me.
+L853 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ So I have to have a motive to be with you?
+L852 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Create a little drama?  Start a new rumor?  What?
+L848 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Because I don't want to. It's a stupid tradition.
+L847 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Why not?
+L846 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ No, I won't go with you
+L845 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ No what?
+L844 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ No.
+L843 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ You know what I mean
+L842 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Is that a request or a command?
+L841 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Go to the prom with me
+L840 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ You're amazingly self-assured. Has anyone ever told you that?
+L839 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ No one else knows
+L838 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ What?
+L837 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ You're sweet.  And sexy.  And completely hot for me.
+L836 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ No -- something real.  Something no one else knows.
+L835 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ I hate peas.
+L834 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Tell me something true.
+L832 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ I know the porn career's a lie.
+L831 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Hearsay.
+L830 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ The duck?
+L829 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Fallacy.
+L828 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ State trooper?
+L825 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ For. . . ?
+L824 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ You up for it?
+L823 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ You never disappointed me.
+L822 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ How?
+L821 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Then you screwed up
+L820 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Something like that
+L819 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ So if you disappoint them from the start, you're covered?
+L818 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ I don't like to do what people expect. Then they expect it all the time and they get disappointed when you change.
+L817 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Yes
+L816 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Acting the way we do.
+L815 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ So what's your excuse?
+L814 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Yeah, well, don't let it get out
+L813 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ A soft side? Who knew?
+L812 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ I dazzled him with my wit
+L811 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ So how'd you get Chapin to look the other way?
+L810 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Good call.
+L809 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ I figured it had to be something ridiculous to win your respect.  And piss you off.
+L808 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ The Partridge Family?
+L806 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Maybe.
+L805 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ You want me to climb up and show you how to get down?
+L804 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Forget it.  I'm stayin'.
+L803 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Put your right foot there --
+L802 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Try lookin' at it from this angle
+L801 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ C'mon.  It's not that bad
+L800 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ I guess I never told you I'm afraid of heights.
+L799 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Look up, sunshine
+L798 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ He left!  I sprung the dickhead and he cruised on me.
+L774 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Other than my upchuck reflex? Nothing.
+L773 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ So what did I have an effect on ?
+L772 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Don't for one minute think that you had any effect whatsoever on my panties.
+L771 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Unwelcome?  I guess someone still has her panties in a twist.
+L770 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Unwelcome.
+L769 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Wholesome.
+L768 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Pleasant?
+L767 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ You 're so --
+L766 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ I heard there was a poetry reading.
+L765 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ What are you doing here?
+L764 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Excuse me, have you seen The Feminine Mystique?  I lost my copy.
+L690 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ No offense, but you're sister is without.  I know everyone likes her and all, but ...
+L689 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ BIANCA
+L688 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Who?
+L687 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ He just wants me to be someone I'm not.
+L686 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ So what ' s up with your dad?  He a pain in the ass?
+L684 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ I'm gettin' there
+L683 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Oh, so now you think you know me?
+L682 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ You don't strike me as the type that would ask permission.
+L681 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ My father wouldn't approve of that that
+L680 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Start a band?
+L679 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ This.
+L678 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Do what?
+L677 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ I should do this.
+L676 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Why'd you lie?
+L675 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Then why'd you ask?
+L674 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ No, you weren't
+L673 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Maybe.
+L672 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Were you in jail?
+L671 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Busy
+L670 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ When you were gone last year -- where were you?
+L669 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ But it's Gigglepuss - I know you like them.  I saw you there.
+L668 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ And I'm in control of it.
+L651 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ What?
+L650 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Kat! Wake up!
+L646 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ You know what they say
+L645 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ I thought you were above all that
+L644 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Hey man. . .  You don ' t think I can be "cool"?  You don't think I can be "laid back" like everyone else?
+L643 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ I know.  It'd have to be a pretty big deal to get you to mainline tequila. You don't seem like the type.
+L642 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ I hate him.
+L641 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Dorsey.
+L640 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Who?
+L639 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Why'd you let him get to you?
+L636 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Just let me sit down.
+L635 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ See that?  Who needs affection when I've got blind hatred?
+L634 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Like you could find one
+L633 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Because then I'd have to start taking out girls who like me.
+L632 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Why?
+L631 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Sure, I do
+L630 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ You don't care if I die
+L629 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ I told you
+L628 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Why 're you doing this?
+L627 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Leave it to you to use big words when you're shitfaced.
+L626 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ This is so patronizing.
+L616 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ What if you have a concussion? My dog went to sleep with a concussion and woke up a vegetable. Not that I could tell the difference...
+L615 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ I know, just let me sleep
+L614 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Uh, uh. You lie down and you'll go to sleep
+L613 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ I just need to lie down for awhile
+L612 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ You're not okay.
+L611 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ I'm fine. I'm
+L610 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Okay?
+L567 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Funny, you're the only one
+L566 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ I say, do what you wanna do.
+L565 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ "I'm getting trashed, man." Isn't that what you're supposed to do at a party?
+L564 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ What's this?
+L483 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Why, don't you?
+L482 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ You know who The Raincoats are?
+L481 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ You know, these guys are no Bikini Kill or The Raincoats, but they're right up there.
+L477 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Do you mind?  You're sort of ruining it for me.
+L476 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ That's what you want, isn't it?
+L475 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Excuse me?
+L474 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ 
+L473 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ hey.  Great show, huh?
+L334 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Depends on the topic. My fenders don't really whip me into a verbal frenzy.
+L333 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ You're not a big talker, are you?
+L332 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Hi
+L331 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ I was in the laundromat. I saw your car. Thought I'd say hi.
+L330 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Are you following me?
+L328 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Seven-thirty?
+L327 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ You -- covered in my vomit.
+L326 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Come on -- the ponies, the flat beer, you with money in your eyes, me with my hand on your ass...
+L325 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ And why would I do that?
+L324 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Then say you'll spend Dollar Night at the track with me.
+L323 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ I don't really think you warrant that strong an emotion.
+L322 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ You hate me don't you?
+L313 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ I know a lot more than that
+L312 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Like where?  The 7-Eleven on Burnside? Do you even know my name, screwboy?
+L311 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ The night I take you to places you've never been before.  And back.
+L310 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Oh, right.  Friday.
+L309 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Pick you up Friday, then
+L307 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ My mission in life.
+L306 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ There's a way to get a guy's attention.
+L305 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Sweating like a pig, actually.  And yourself?
+L304 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ I mean Wo-man.  How ya doin'?
+L1000 +++$+++ u11 +++$+++ m0 +++$+++ WALTER +++$+++ Oh, Christ.  Don't tell me you've changed your mind.  I already sent 'em a check.
+L999 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ When I go?
+L998 +++$+++ u11 +++$+++ m0 +++$+++ WALTER +++$+++ You know, fathers don't like to admit that their daughters are capable of running their own lives.  It means we've become spectators.  Bianca still lets me play a few innings.  You've had me on the bleachers for years.  When you go to Sarah Lawrence, I won't even be able to watch the game.
+L997 +++$+++ u11 +++$+++ m0 +++$+++ WALTER +++$+++ No -- impressed.
+L996 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ What's the matter?  Upset that I rubbed off on her?
+L995 +++$+++ u11 +++$+++ m0 +++$+++ WALTER +++$+++ Bianca did what?
+L994 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ The part where Bianca beat the hell out of some guy.
+L993 +++$+++ u11 +++$+++ m0 +++$+++ WALTER +++$+++ Which parts?
+L992 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Parts of it.
+L991 +++$+++ u11 +++$+++ m0 +++$+++ WALTER +++$+++ So tell me about this dance. Was it fun?
+L990 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ No, Daddy.
+L989 +++$+++ u11 +++$+++ m0 +++$+++ WALTER +++$+++ I don't understand the allure of dehydrated food.  Is this something I should be hip to?
+L988 +++$+++ u11 +++$+++ m0 +++$+++ WALTER +++$+++ Funny.
+L987 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Yeah.  She left with some bikers Big ones.  Full of sperm.
+L986 +++$+++ u11 +++$+++ m0 +++$+++ WALTER +++$+++ Was that your sister?
+L347 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ I want to go to an East Coast school! I want you to trust me to make my own choices.  I want --
+L346 +++$+++ u11 +++$+++ m0 +++$+++ WALTER +++$+++ You're eighteen.  You don't know what you want.  You won't know until you're forty-five and you don't have it.
+L345 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ So what I want doesn't matter?
+L344 +++$+++ u11 +++$+++ m0 +++$+++ WALTER +++$+++ As a parent, that's my right
+L343 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Because you're making decisions for me.
+L342 +++$+++ u11 +++$+++ m0 +++$+++ WALTER +++$+++ Why can't we agree on this?
+L341 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ I thought you were punishing me.
+L340 +++$+++ u11 +++$+++ m0 +++$+++ WALTER +++$+++ Is this about Sarah Lawrence? You punishing me?
+L339 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Then tell them I had a seizure.
+L338 +++$+++ u11 +++$+++ m0 +++$+++ WALTER +++$+++ My insurance does not cover PMS
+L185 +++$+++ u11 +++$+++ m0 +++$+++ WALTER +++$+++ Enough!
+L184 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ This from someone whose diary is devoted to favorite grooming tips?
+L174 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ You decided.
+L173 +++$+++ u11 +++$+++ m0 +++$+++ WALTER +++$+++ I thought we decided you were going to school here.  At U of 0.
+L172 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ I know.
+L1018 +++$+++ u8 +++$+++ m0 +++$+++ MISS PERKY +++$+++ Just smack her now.
+L1017 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Am I supposed to feel better? Like, right now?  Or do I have some time to think about it?
+L109 +++$+++ u8 +++$+++ m0 +++$+++ MISS PERKY +++$+++ No ... I believe "heinous bitch" is the term used most often.
+L108 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Tempestuous?
+L107 +++$+++ u8 +++$+++ m0 +++$+++ MISS PERKY +++$+++ The point is Kat -- people perceive you as somewhat ...
+L106 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ I still maintain that he kicked himself in the balls.  I was merely a spectator.
+L105 +++$+++ u8 +++$+++ m0 +++$+++ MISS PERKY +++$+++ Well, yes, compared to your other choices of expression this year, today's events are quite mild.  By the way, Bobby Rictor's gonad retrieval operation went quite well, in case you're interested.
+L104 +++$+++ u5 +++$+++ m0 +++$+++ KAT +++$+++ Expressing my opinion is not a terrorist action.
+L103 +++$+++ u8 +++$+++ m0 +++$+++ MISS PERKY +++$+++ Katarina Stratford.  My, my.  You've been terrorizing Ms. Blaise again.
+L738 +++$+++ u6 +++$+++ m0 +++$+++ MANDELLA +++$+++ Yeah...
+L737 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ Kat a fan, too?
+L736 +++$+++ u6 +++$+++ m0 +++$+++ MANDELLA +++$+++ Right.
+L735 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ Macbeth, right?
+L733 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ Oh yeah.
+L732 +++$+++ u6 +++$+++ m0 +++$+++ MANDELLA +++$+++ You think?
+L731 +++$+++ u6 +++$+++ m0 +++$+++ MANDELLA +++$+++ Yeah.  I guess.
+L730 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ Cool pictures.  You a fan?
+L729 +++$+++ u6 +++$+++ m0 +++$+++ MANDELLA +++$+++ Hi.
+L728 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ Hey there.  Tired of breathing?
+L777 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Man -- don't say shit like that to  me. People can hear you.
+L776 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ Sweet love, renew thy force!
+L775 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ You were right. She's still pissed.
+L724 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ No - I've got a sweet-payin' job that I'm about to lose.
+L723 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ So you got cozy with she who stings?
+L437 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ I'm likin' you guys better
+L436 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ I prefer to think of it simply as an alternative to what the law allows.
+L429 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Yeah.
+L428 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ Ever been to Club Skunk?
+L421 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ Just for now.
+L420 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Are you telling me I'm a -  "non-smoker"?
+L415 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ Good enough.
+L414 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ What?!
+L384 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ We're your guys.
+L383 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ You two are gonna help me tame the wild beast?
+L382 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ Patrick, Pat, you're not looking at the big picture.  Joey's just a pawn. We set this whole thing up so Cameron can get the girl.
+L381 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ So Dorsey can get the girl?
+L380 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ That's where we can help you.  With Kat.
+L379 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Dorsey can plow whoever he wants. I'm just in this for the cash.
+L378 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ I think I speak correctly when I say that Cameron's love is pure.  Purer than say -- Joey Dorsey's.
+L377 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ What is it with this chick?  She have three tits?
+L376 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ The situation is, my man Cameron here has a major jones for Bianca Stratford.
+L375 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ What plan?
+L373 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Whatever the hell it is you're standin' there waitin' to say.
+L372 +++$+++ u7 +++$+++ m0 +++$+++ MICHAEL +++$+++ What?
+L371 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Say it
+L512 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ See you next week!
+L511 +++$+++ u8 +++$+++ m0 +++$+++ MISS PERKY +++$+++ You're completely demented.
+L264 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Well, you know -- there's the prestige of the job title... and the benefits package is pretty good...
+L263 +++$+++ u8 +++$+++ m0 +++$+++ MISS PERKY +++$+++ You weren't abused, you aren't stupid, and as far as I can tell, you're only slightly psychotic -- so why is it that you're such a fuck-up?
+L262 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ What's to discuss?
+L261 +++$+++ u8 +++$+++ m0 +++$+++ MISS PERKY +++$+++ Why don't we discuss your driving need to be a hemorrhoid?
+L259 +++$+++ u8 +++$+++ m0 +++$+++ MISS PERKY +++$+++ I'm at a loss, then.  What should we talk about? Your year of absence?
+L258 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ Touch of the flu.
+L257 +++$+++ u8 +++$+++ m0 +++$+++ MISS PERKY +++$+++ I don't understand, Patrick.  You haven't done anything asinine this week. Are you not feeling well?
+L62 +++$+++ u8 +++$+++ m0 +++$+++ MISS PERKY +++$+++ With the teeth of your zipper?
+L61 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ It was a bratwurst.  I was eating lunch.
+L60 +++$+++ u8 +++$+++ m0 +++$+++ MISS PERKY +++$+++ It says here you exposed yourself to a group of freshmen girls.
+L59 +++$+++ u9 +++$+++ m0 +++$+++ PATRICK +++$+++ I missed you.
+L933 +++$+++ u11 +++$+++ m0 +++$+++ WALTER +++$+++ That ' s what I thought
+L932 +++$+++ u10 +++$+++ m0 +++$+++ SHARON +++$+++ Absolutely not.
+L931 +++$+++ u11 +++$+++ m0 +++$+++ WALTER +++$+++ Did I have anything to say about it?
+L930 +++$+++ u10 +++$+++ m0 +++$+++ SHARON +++$+++ Your daughters went to the prom.
+L929 +++$+++ u11 +++$+++ m0 +++$+++ WALTER +++$+++ What just happened?
+L927 +++$+++ u11 +++$+++ m0 +++$+++ WALTER +++$+++ But -- who -- what --?
+L926 +++$+++ u10 +++$+++ m0 +++$+++ SHARON +++$+++ Have a great time, honey!
+L918 +++$+++ u10 +++$+++ m0 +++$+++ SHARON +++$+++ Dr. Ruth?
+L917 +++$+++ u11 +++$+++ m0 +++$+++ WALTER +++$+++ What do you wanna watch?  We've got crap, crap, crap or crap
+L887 +++$+++ u11 +++$+++ m0 +++$+++ WALTER +++$+++ Kissing?  Is that what you think happens?  Kissing isn't what keeps me up to my elbows in placenta all day.
+L886 +++$+++ u10 +++$+++ m0 +++$+++ SHARON +++$+++ They'll dance, they'll kiss, they'll come home.  Let her go.
+L877 +++$+++ u11 +++$+++ m0 +++$+++ WALTER +++$+++ Pirate -- no question.
+L876 +++$+++ u10 +++$+++ m0 +++$+++ SHARON +++$+++ Would you rather be ravished by a pirate or a British rear admiral?
+L193 +++$+++ u11 +++$+++ m0 +++$+++ WALTER +++$+++ You're not helping.
+L192 +++$+++ u10 +++$+++ m0 +++$+++ SHARON +++$+++ Tumescent!
+L191 +++$+++ u11 +++$+++ m0 +++$+++ WALTER +++$+++ Jesus!  Can a man even grab a sandwich before you women start dilating?
+L171 +++$+++ u11 +++$+++ m0 +++$+++ WALTER +++$+++ Sarah Lawrence is on the other side of the country.
+L170 +++$+++ u10 +++$+++ m0 +++$+++ SHARON +++$+++ What's a synonym for throbbing?
+L162 +++$+++ u11 +++$+++ m0 +++$+++ WALTER +++$+++ Make anyone cry today?
+L161 +++$+++ u10 +++$+++ m0 +++$+++ SHARON +++$+++ In the microwave.
+L2181 +++$+++ u12 +++$+++ m1 +++$+++ ALONSO +++$+++ Can't be that far, I say.  Also, I don't like the smell of the sea around here.  Smells like a cunt. Bad sign...
+L2180 +++$+++ u23 +++$+++ m1 +++$+++ SAILOR +++$+++ We left three weeks ago, Alonso. Can't be that near.
+L2179 +++$+++ u12 +++$+++ m1 +++$+++ ALONSO +++$+++ We should have seen land.
+L2177 +++$+++ u23 +++$+++ m1 +++$+++ SAILOR +++$+++ We'll all go crazy...
+L2176 +++$+++ u12 +++$+++ m1 +++$+++ ALONSO +++$+++ He's the devil's child...
+L2175 +++$+++ u12 +++$+++ m1 +++$+++ ALONSO +++$+++ With a face like that?  I don't want you looking at me.  You hear?
+L2174 +++$+++ u23 +++$+++ m1 +++$+++ SAILOR +++$+++ Ah, leave him alone.  He's doing no harm.
+L2173 +++$+++ u12 +++$+++ m1 +++$+++ ALONSO +++$+++ What are you listening to, chicken ass?
+L2172 +++$+++ u12 +++$+++ m1 +++$+++ ALONSO +++$+++ You'll be drinking your own piss... For the glory of Spain... and Admiral Colon...!  Bastard!
+L2171 +++$+++ u23 +++$+++ m1 +++$+++ SAILOR +++$+++ The water's going putrid in the barrels.
+L2170 +++$+++ u12 +++$+++ m1 +++$+++ ALONSO +++$+++ I never seen heat like this!  Not even in Las Minas!
+L2025 +++$+++ u13 +++$+++ m1 +++$+++ AROJAZ +++$+++ IF-GOD-WILLS-IT!
+L2024 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ Asia can be found to the west -- and I will prove it.
+L2023 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ Blind faith is what I consider heresy!
+L2022 +++$+++ u13 +++$+++ m1 +++$+++ AROJAZ +++$+++ Don't you realize your words could be considered heretical?
+L2020 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ Did He not choose a carpenter's son to reveal Himself to the world?
+L2019 +++$+++ u13 +++$+++ m1 +++$+++ AROJAZ +++$+++ If God intended our proximity to Asia, do you believe he would have waited for you to show it to the world?
+L2016 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ No.  The Portuguese have already discovered black-skinned people.  I, too, will find other populations -- and bring them to the word of God.
+L2015 +++$+++ u13 +++$+++ m1 +++$+++ AROJAZ +++$+++ Is that all that interests you? Gold?
+L2014 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ Trade, Your Excellency.  According to Marco Polo, the Kingdom of China is one of the richest of the world. Even the meanest buildings are roofed with gold.
+L2012 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ If they agree to follow me, yes.
+L2011 +++$+++ u13 +++$+++ m1 +++$+++ AROJAZ +++$+++ Your life, and that of others!
+L2010 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ Your Eminence, there is only one way to settle the matter.  And that is to make the journey.  I am ready to risk my life to prove it possible.
+L2006 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ Excellency, you are right.
+L2005 +++$+++ u13 +++$+++ m1 +++$+++ AROJAZ +++$+++ Senor Colon, an experienced captain such as yourself will understand our concern with the crew.  I am not willing to have on my conscience the loss of men who would have relied upon our judgment.
+L1993 +++$+++ u13 +++$+++ m1 +++$+++ AROJAZ +++$+++ Then you cannot ignore that according to their calculations, the circumference of the Earth is approximately...  22,000 leagues or more.  Which makes the ocean... uncrossable.
+L1992 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ I am, Your Eminence
+L1991 +++$+++ u13 +++$+++ m1 +++$+++ AROJAZ +++$+++ Unfortunately, Don Colon, that is precisely where our opinions differ...  Are you familiar with the work of Aristotle?  Erathostene?  Ptolemeus?
+L1990 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ Yes, your Eminence.  The voyage should not take more than six or seven weeks.
+L1989 +++$+++ u13 +++$+++ m1 +++$+++ AROJAZ +++$+++ You say Asia can be found by sailing west?
+L2524 +++$+++ u24 +++$+++ m1 +++$+++ SANCHEZ +++$+++ A waste...?  Let me tell you something, Arojaz.  If your name, or mine, is ever remembered -- it will only be because of his.
+L2523 +++$+++ u13 +++$+++ m1 +++$+++ AROJAZ +++$+++ What a tragedy... what a waste of a life...
+L2522 +++$+++ u24 +++$+++ m1 +++$+++ SANCHEZ +++$+++ You can see for yourself.
+L2275 +++$+++ u24 +++$+++ m1 +++$+++ SANCHEZ +++$+++ On the contrary, Your Eminence.  It seems to me the man is preparing his own cross.
+L2274 +++$+++ u13 +++$+++ m1 +++$+++ AROJAZ +++$+++ It won't be easy to get rid of your prophet now, Don Sanchez.
+L2031 +++$+++ u24 +++$+++ m1 +++$+++ SANCHEZ +++$+++ Indeed.  The world is full of mercenaries -- and states often make use of them, when it benefits them.  My only concern is the welfare and prosperity of Spain.
+L2030 +++$+++ u13 +++$+++ m1 +++$+++ AROJAZ +++$+++ He is a mercenary!  Did he not already try to convince the King of Portugal of his absurd notions?
+L2029 +++$+++ u24 +++$+++ m1 +++$+++ SANCHEZ +++$+++ Naturally.  But I would really deplore the loss of such a potential opportunity for Spain for a... dispute over a point of geography.
+L2028 +++$+++ u13 +++$+++ m1 +++$+++ AROJAZ +++$+++ The Judgment is ours!
+L2027 +++$+++ u24 +++$+++ m1 +++$+++ SANCHEZ +++$+++ The State has some reason to be interested in this man's proposition, Your Eminence...
+L2540 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ I can't keep my eyes off you.  I would like to catch up with all the moments I didn't spend with you.
+L2539 +++$+++ u14 +++$+++ m1 +++$+++ BEATRIX +++$+++ What is it, now?  Tell me...
+L2538 +++$+++ u14 +++$+++ m1 +++$+++ BEATRIX +++$+++ I am busy inside.
+L2537 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ Can't you stay with us a little?
+L2474 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ Not everything... Do you think I care?  I'm a free man again.  Riches don't make a man rich, they only make him busier...
+L2473 +++$+++ u14 +++$+++ m1 +++$+++ BEATRIX +++$+++ They took everything...
+L2472 +++$+++ u14 +++$+++ m1 +++$+++ BEATRIX +++$+++ They tried... but I didn't let them.
+L2471 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ God... you're so beautiful!  I can't believe no other man has ever taken you away from me...
+L2320 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ I can arrange for the Queen to take Fernando and Diego into her service.
+L2319 +++$+++ u14 +++$+++ m1 +++$+++ BEATRIX +++$+++ You don't usually ask.
+L2318 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ Beatrix, I want to ask you something.
+L2123 +++$+++ u14 +++$+++ m1 +++$+++ BEATRIX +++$+++ That's something you can't decide.
+L2122 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ I don't want you to wait for me.
+L2121 +++$+++ u14 +++$+++ m1 +++$+++ BEATRIX +++$+++ I'm not asking you to swear to anything.
+L2119 +++$+++ u14 +++$+++ m1 +++$+++ BEATRIX +++$+++ Thank God...
+L2118 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ She said yes.
+L1986 +++$+++ u14 +++$+++ m1 +++$+++ BEATRIX +++$+++ I find that hard to believe.
+L1985 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ Perhaps I was never meant to live with a woman...
+L1984 +++$+++ u14 +++$+++ m1 +++$+++ BEATRIX +++$+++ I'd love to argue with you sometimes.  But you're never here!
+L1983 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ Are we going to argue?
+L1982 +++$+++ u14 +++$+++ m1 +++$+++ BEATRIX +++$+++ Well... that's true.  I have a child by a man who won't marry me!  Who's always leaving...
+L1981 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ I haven't given you much of a life.
+L1980 +++$+++ u14 +++$+++ m1 +++$+++ BEATRIX +++$+++ I know.
+L1979 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ I could be gone for years.
+L2432 +++$+++ u15 +++$+++ m1 +++$+++ BOBADILLA +++$+++ I am afraid this is not the worst news.
+L2431 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ How could I be?  The mainland has been found.  Exactly as I said it would.
+L2430 +++$+++ u15 +++$+++ m1 +++$+++ BOBADILLA +++$+++ I am not a seaman.  But I heard it is no more than a week at sea.  I hope you are not too disappointed.
+L2429 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ How far from here?
+L2426 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ Congratulations.  Then I am free to search for the mainland.
+L2425 +++$+++ u15 +++$+++ m1 +++$+++ BOBADILLA +++$+++ Viceroy of the West Indies.
+L2424 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ Appointment to what?
+L2423 +++$+++ u15 +++$+++ m1 +++$+++ BOBADILLA +++$+++ My letters of appointment.
+L2422 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ Yes... I remember...
+L2421 +++$+++ u15 +++$+++ m1 +++$+++ BOBADILLA +++$+++ Don Alonso de Bobadilla.
+L2293 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ Bartolome and Giacomo Colon.
+L2292 +++$+++ u15 +++$+++ m1 +++$+++ BOBADILLA +++$+++ May I ask by whom?
+L2291 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ Forgive me, Don Bobadilla -- those positions have already been taken.
+L2290 +++$+++ u15 +++$+++ m1 +++$+++ BOBADILLA +++$+++ I understand that you will soon be appointing Governors for the islands?  Is it not so?
+L2552 +++$+++ u17 +++$+++ m1 +++$+++ FERNANDO +++$+++ Tell me the first thing that comes to your mind.
+L2551 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ Really?  God... I wouldn't know where to start... and yet...
+L2550 +++$+++ u17 +++$+++ m1 +++$+++ FERNANDO +++$+++ I want you to tell me everything you remember, Father.  From the beginning.  Everything.
+L2549 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ He never had one... except aboard my ships!
+L2548 +++$+++ u17 +++$+++ m1 +++$+++ FERNANDO +++$+++ He asks when he can come to visit you.  He left his address.
+L2547 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ What does he say?
+L2542 +++$+++ u17 +++$+++ m1 +++$+++ FERNANDO +++$+++ I am not listening, Father.  But I can't help hearing.
+L2541 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ What are you listening to?
+L2501 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ There must be a passage to that other ocean.
+L2500 +++$+++ u17 +++$+++ m1 +++$+++ FERNANDO +++$+++ Father...
+L2485 +++$+++ u17 +++$+++ m1 +++$+++ FERNANDO +++$+++ Not bad.
+L2484 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ How are you feeling, Fernando?
+L2440 +++$+++ u17 +++$+++ m1 +++$+++ FERNANDO +++$+++ This time with me!
+L2439 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ I have to explore the mainland.
+L2131 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ Yes... Yes, I do... On all of them!
+L2130 +++$+++ u17 +++$+++ m1 +++$+++ FERNANDO +++$+++ Do you swear on all the Holy Saints in heaven?
+L2129 +++$+++ u17 +++$+++ m1 +++$+++ FERNANDO +++$+++ You promise?  Do you swear on St. Christopher...?
+L2128 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ There'll be a time.
+L2127 +++$+++ u17 +++$+++ m1 +++$+++ FERNANDO +++$+++ I want to go with you!
+L2469 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ All of them created by people like me.
+L2468 +++$+++ u24 +++$+++ m1 +++$+++ SANCHEZ +++$+++ Roofs... towers, palaces... spires...
+L2467 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ What do you see?
+L2466 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ Look out of that window.
+L2465 +++$+++ u24 +++$+++ m1 +++$+++ SANCHEZ +++$+++ I am not afraid of you.  You are nothing but a dreamer.
+L2464 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ Call them.
+L2463 +++$+++ u24 +++$+++ m1 +++$+++ SANCHEZ +++$+++ All I have to do is call the guards.
+L2301 +++$+++ u24 +++$+++ m1 +++$+++ SANCHEZ +++$+++ To rise so high, in so short a time, is a dangerous occupation.  A little hypocrisy goes a long way.
+L2300 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ What...?  Do I have so many already?
+L2299 +++$+++ u24 +++$+++ m1 +++$+++ SANCHEZ +++$+++ You seem to have a special talent for making friends.
+L2297 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ Good!  We are also in need of judges.  Except there are no thieves!
+L2296 +++$+++ u24 +++$+++ m1 +++$+++ SANCHEZ +++$+++ Don Bobadilla is already a judge, my Dear Don Cristobal.
+L2295 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ But we do have a lack of notaries. You should contact my administration.
+L2287 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ ... for a commoner?
+L2286 +++$+++ u24 +++$+++ m1 +++$+++ SANCHEZ +++$+++ You defend yourself admirably...
+L2282 +++$+++ u24 +++$+++ m1 +++$+++ SANCHEZ +++$+++ Forgive me, Don Colon.  But what about gold?
+L2281 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ They don't see sin in their nakedness.  They live according to nature, in a never ending summer. The islands are covered with trees, filled with blossoms and fruits. And...
+L2110 +++$+++ u24 +++$+++ m1 +++$+++ SANCHEZ +++$+++ If you won't accept our proposal, we'll simply find someone who will.
+L2109 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ And were you never ambitious, Excellency?  Or is ambition only a virtue among the nobles, a fault for the rest of us?
+L2108 +++$+++ u24 +++$+++ m1 +++$+++ SANCHEZ +++$+++ Then you are too ambitious.
+L2107 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ I'm not bargaining!
+L2106 +++$+++ u24 +++$+++ m1 +++$+++ SANCHEZ +++$+++ I remind you, Senor Colon, that you are in no position to bargain with me.
+L2105 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ NO...!  I have waited too long, fought too hard.  Now you expect me to take all the risks while you take the profit!  No... I will not be your servant!
+L2104 +++$+++ u24 +++$+++ m1 +++$+++ SANCHEZ +++$+++ No?
+L2103 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ No...
+L2410 +++$+++ u25 +++$+++ m1 +++$+++ UTAPAN +++$+++ You never learned how to speak my language.
+L2409 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ Utapan, won't you speak to me?  You used to know how to speak to me.
+L2394 +++$+++ u25 +++$+++ m1 +++$+++ UTAPAN +++$+++ You did the same to your God!
+L2393 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ You have to find them, Utapan.  Look what they did!
+L2343 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ Ask him if he will help.
+L2342 +++$+++ u25 +++$+++ m1 +++$+++ UTAPAN +++$+++ He understands.
+L2341 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ We will work with his people.  We want peace.  Ask the Chief if he understands?
+L2260 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ He has medicine.  Tell him we admire his people.
+L2259 +++$+++ u25 +++$+++ m1 +++$+++ UTAPAN +++$+++ Chief says...
+L2258 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ ... and also to bring medicine.
+L2257 +++$+++ u25 +++$+++ m1 +++$+++ UTAPAN +++$+++ Chief says -- he has a God.
+L2256 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ To bring the word of God.
+L2255 +++$+++ u25 +++$+++ m1 +++$+++ UTAPAN +++$+++ Why?
+L2254 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ Thousands.
+L2253 +++$+++ u25 +++$+++ m1 +++$+++ UTAPAN +++$+++ Chief says -- how many?
+L2251 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ Tell him his country is very beautiful.  Tell him we are leaving men here -- to build a fort.
+L2250 +++$+++ u25 +++$+++ m1 +++$+++ UTAPAN +++$+++ Chief knows.
+L2249 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ Tell the Chief we thank him.
+L2248 +++$+++ u25 +++$+++ m1 +++$+++ UTAPAN +++$+++ You come!  You speak first!
+L2239 +++$+++ u25 +++$+++ m1 +++$+++ UTAPAN +++$+++ Island.  Far.
+L2238 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ What is it?  A tribe?  An island?
+L2237 +++$+++ u25 +++$+++ m1 +++$+++ UTAPAN +++$+++ Say not here!  Cuba!
+L2535 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ I don't know... I have the impression that I didn't change that much.  I still can't accept the world as it is!
+L2534 +++$+++ u19 +++$+++ m1 +++$+++ MARCHENA +++$+++ Oh?  So you are a new man?
+L2533 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ New worlds create new people.
+L2532 +++$+++ u19 +++$+++ m1 +++$+++ MARCHENA +++$+++ I knew you would.
+L2531 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ I have to disagree.
+L2526 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ You'll always be older than me, Father.
+L2525 +++$+++ u19 +++$+++ m1 +++$+++ MARCHENA +++$+++ I suppose we're both old men now.
+L2145 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ Give me absolution.
+L2144 +++$+++ u19 +++$+++ m1 +++$+++ MARCHENA +++$+++ I believed in you...
+L2143 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ You are bound by an oath, Father.
+L2142 +++$+++ u19 +++$+++ m1 +++$+++ MARCHENA +++$+++ My son, my son...  Your certitudes are sometimes frightening...  Christopher, you must speak to them. And if you don't I will.
+L2141 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ If I tell them, they won't follow me.  You know that I am right, Father.  You trust me...
+L2140 +++$+++ u19 +++$+++ m1 +++$+++ MARCHENA +++$+++ May God forgive you...!  You must tell them!  You must tell your men!
+L2139 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ I am not sure... It could be twice the distance.
+L2138 +++$+++ u19 +++$+++ m1 +++$+++ MARCHENA +++$+++ How long?
+L2137 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ I lied.  The journey will be longer than I said.
+L2136 +++$+++ u19 +++$+++ m1 +++$+++ MARCHENA +++$+++ What are you saying?
+L2135 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ Father, I have betrayed my family. I betrayed my men.  And I betrayed you.
+L2134 +++$+++ u19 +++$+++ m1 +++$+++ MARCHENA +++$+++ I am listening, my son.
+L2133 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ Forgive me, Father.  For I have sinned.
+L2132 +++$+++ u19 +++$+++ m1 +++$+++ MARCHENA +++$+++ In Nomine Patris et Filius, et Spiritus Sancti.
+L2046 +++$+++ u19 +++$+++ m1 +++$+++ MARCHENA +++$+++ Colon!  Don't!
+L2045 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ All of them!  Just lies!
+L2042 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ Damn all of you!  You all set up theories based on what?  You never leave the safety of your studies! Go out!  Find out what the world is about and then tell me something I can listen to!
+L2041 +++$+++ u19 +++$+++ m1 +++$+++ MARCHENA +++$+++ Colon!
+L2040 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ Damn God!
+L2039 +++$+++ u19 +++$+++ m1 +++$+++ MARCHENA +++$+++ If God intends you to go, then you will go.
+L2038 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ Wait!  I've waited seven years already!  How much longer do you want me to wait?
+L2037 +++$+++ u19 +++$+++ m1 +++$+++ MARCHENA +++$+++ You mustn't give way to despair. You must wait.
+L1969 +++$+++ u19 +++$+++ m1 +++$+++ MARCHENA +++$+++ Only God knows the meaning of such words, my son.
+L1968 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ I've been contradicted all my life... Eternity!
+L1967 +++$+++ u19 +++$+++ m1 +++$+++ MARCHENA +++$+++ You get so carried away when you are being contradicted!
+L1966 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ Passion is something one cannot control!
+L1965 +++$+++ u19 +++$+++ m1 +++$+++ MARCHENA +++$+++ Father Marchena!
+L1964 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ I'll try to remember that, Marchena...
+L1963 +++$+++ u19 +++$+++ m1 +++$+++ MARCHENA +++$+++ Two minutes... and already you're a dead man.  Don't let passion overwhelm you, Colon.
+L1962 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ So was Christ!
+L1961 +++$+++ u19 +++$+++ m1 +++$+++ MARCHENA +++$+++ Esdras is a Jew.
+L1960 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ The calculations of Toscanelli Marin de Tyr, Esdras...
+L1959 +++$+++ u19 +++$+++ m1 +++$+++ MARCHENA +++$+++ How can you be so certain?
+L1958 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ Ignorance!  I believe the Indies are no more than 750 leagues west of the Canary Islands.
+L1957 +++$+++ u19 +++$+++ m1 +++$+++ MARCHENA +++$+++ How can you be so certain?  The Ocean is said to be infinite.
+L1952 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ To open a new route to Asia.  At the moment there are only two ways of reaching it...
+L1951 +++$+++ u19 +++$+++ m1 +++$+++ MARCHENA +++$+++ Why do you wish to sail west?
+L1950 +++$+++ u19 +++$+++ m1 +++$+++ MARCHENA +++$+++ With some difficulty.  I had to promise them you were not a total fool.
+L1949 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ How did you manage it?
+L1948 +++$+++ u19 +++$+++ m1 +++$+++ MARCHENA +++$+++ That's what it says.
+L1947 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ God... That's in a week!
+L1943 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ Father, I am doing what I think is the best for him.  And he has the teacher I would have chosen for myself.
+L1942 +++$+++ u19 +++$+++ m1 +++$+++ MARCHENA +++$+++ Diego is a bright boy -- a pleasure to teach -- but so serious... Brothers should be raised together, Colon.  Even brothers from different mothers...
+L2459 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ Your Majesty -- some men are content to read about things.  I must see them with my own eyes.  I cannot be other than I am.
+L2458 +++$+++ u18 +++$+++ m1 +++$+++ ISABEL +++$+++ There is one thing I'd like to understand... Why do you want to go back, after all this?
+L2457 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ Thank you.
+L2456 +++$+++ u18 +++$+++ m1 +++$+++ ISABEL +++$+++ But without your brothers.  Nor are you to return to Santo Domingo or any of the other colonies.  You may explore the continent.
+L2280 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ They come and go as naked as the day God created them...
+L2279 +++$+++ u18 +++$+++ m1 +++$+++ ISABEL +++$+++ Do they have such thoughts?
+L2086 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ Thirty seven, Your Majesty... And you?
+L2085 +++$+++ u18 +++$+++ m1 +++$+++ ISABEL +++$+++ How old are you, Senor Colon?
+L2082 +++$+++ u18 +++$+++ m1 +++$+++ ISABEL +++$+++ A woman?
+L2081 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ I know what I see.  I see someone who doesn't accept the world as it is.  Who's not afraid.  I see a women who thinks... "What if?"...
+L2080 +++$+++ u18 +++$+++ m1 +++$+++ ISABEL +++$+++ You show no inclination to speak otherwise!
+L2079 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ May I speak freely?
+L2077 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ Surely you can do anything you want.
+L2076 +++$+++ u18 +++$+++ m1 +++$+++ ISABEL +++$+++ I cannot ignore the verdict of my council.
+L2075 +++$+++ u18 +++$+++ m1 +++$+++ ISABEL +++$+++ That she was impregnable.
+L2074 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ What did they say about Granada before today?
+L2073 +++$+++ u18 +++$+++ m1 +++$+++ ISABEL +++$+++ The ocean is uncrossable?
+L2072 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ No more than the woman who said she would take Granada from the Moors.
+L2071 +++$+++ u18 +++$+++ m1 +++$+++ ISABEL +++$+++ I should not even be listening to you, since my council said no.  But Santangel tells me you are a man of honor and sincerity... And Sanchez, that you are not a fool.
+L2389 +++$+++ u21 +++$+++ m1 +++$+++ MOXICA +++$+++ You will regret this.
+L2388 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ You'll be held in detention, deprived of your privileges and possessions.  Until you are returned to Spain where you will be judged. Have you anything to say?
+L2387 +++$+++ u21 +++$+++ m1 +++$+++ MOXICA +++$+++ Savagery is what monkeys understand.
+L2386 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ In one act of brutality, you have created chaos.  Tribes who were fighting each other are now joining forces against us!  All that because of your criminal savagery!
+L2348 +++$+++ u21 +++$+++ m1 +++$+++ MOXICA +++$+++ You did not hear me, Don Colon.  Not my horse.
+L2347 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ Don Moxica -- we all have to work.
+L2346 +++$+++ u21 +++$+++ m1 +++$+++ MOXICA +++$+++ My horse doesn't work.
+L2345 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ We can't raise the wheel without it.
+L2333 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ We came here to stay!  To build! Not to start a crusade.  In this forest, there is enough danger to sweep us away in days!  So we will be brave and swallow our grief.  And in the name of those who died, we will accomplish what we came for.
+L2332 +++$+++ u21 +++$+++ m1 +++$+++ MOXICA +++$+++ We don't need to know.
+L2331 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ You want a war?  Fine.  We are a thousand.  They outnumber us by ten! Who will you kill?  Which tribe?
+L2329 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ If you want to keep your head on your shoulders, you'll do as I say.
+L2328 +++$+++ u21 +++$+++ m1 +++$+++ MOXICA +++$+++ We lost cousins, friends.  We will wash this in blood.
+L2278 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ The Indians have no such word, Don Moxica.
+L2277 +++$+++ u21 +++$+++ m1 +++$+++ MOXICA +++$+++ And you say this is an Indian vice? By God!  I don't see any kind of pleasure that would make this a sin.
+L2492 +++$+++ u20 +++$+++ m1 +++$+++ MENDEZ +++$+++ We can't be.
+L2491 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ He's drawing an isthmus... He's saying we're on an isthmus.
+L2490 +++$+++ u20 +++$+++ m1 +++$+++ MENDEZ +++$+++ What's he doing?
+L2165 +++$+++ u20 +++$+++ m1 +++$+++ MENDEZ +++$+++ Twenty eight.
+L2164 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ What do you read?
+L2160 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ Come over here.
+L2159 +++$+++ u20 +++$+++ m1 +++$+++ MENDEZ +++$+++ Well, I surely know what a quadrant is!  But I've never seen it used at night before.
+L2158 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ And what do you think Mendez?
+L2157 +++$+++ u20 +++$+++ m1 +++$+++ MENDEZ +++$+++ Well... It's the men, Sir.  They wonder how you know our position. We've lost sight from land days ago...
+L2155 +++$+++ u20 +++$+++ m1 +++$+++ MENDEZ +++$+++ God be with us admiral.
+L2154 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ Due west, Captain Mendez.  And may God be with us...
+L2211 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ You're right.  Let the men decide.
+L2210 +++$+++ u22 +++$+++ m1 +++$+++ PINZON +++$+++ You tell that to them!
+L2209 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ Pinzon, Pinzon... All we can do now is go forward!  Think about that!
+L2208 +++$+++ u22 +++$+++ m1 +++$+++ PINZON +++$+++ You bloody...
+L2207 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ You never did.  You did all the talking for both of us, remember?
+L2206 +++$+++ u22 +++$+++ m1 +++$+++ PINZON +++$+++ Jesus Maria!  I should have never listened to you!
+L2205 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ And then what?  Half of the water has gone, the rest is nearly putrid! You know that!
+L2204 +++$+++ u22 +++$+++ m1 +++$+++ PINZON +++$+++ You don't know anything!  Listen Colon, these are my ships, right? So I'm telling you we're turning back!
+L2203 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ The land is there.  I know it!
+L2202 +++$+++ u22 +++$+++ m1 +++$+++ PINZON +++$+++ We're lost!
+L2201 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ You think I don't know that?
+L2200 +++$+++ u22 +++$+++ m1 +++$+++ PINZON +++$+++ We're on the verge of a mutiny, Colon!
+L2199 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ We have to keep the hopes of these men alive!
+L2198 +++$+++ u22 +++$+++ m1 +++$+++ PINZON +++$+++ You must be mad...!
+L2197 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ Six days ago, yes.
+L2196 +++$+++ u22 +++$+++ m1 +++$+++ PINZON +++$+++ You lied!  You cheated!  We're way past 750 leagues!
+L2065 +++$+++ u22 +++$+++ m1 +++$+++ PINZON +++$+++ Immediately.
+L2064 +++$+++ u16 +++$+++ m1 +++$+++ COLUMBUS +++$+++ Where can I meet this man?
+L2462 +++$+++ u18 +++$+++ m1 +++$+++ ISABEL +++$+++ Because he is not afraid of me.
+L2461 +++$+++ u24 +++$+++ m1 +++$+++ SANCHEZ +++$+++ Then why?
+L2460 +++$+++ u18 +++$+++ m1 +++$+++ ISABEL +++$+++ I know, I should not tolerate his impertinence.
+L2419 +++$+++ u18 +++$+++ m1 +++$+++ ISABEL +++$+++ And who would you think of, for such a task?
+L2418 +++$+++ u24 +++$+++ m1 +++$+++ SANCHEZ +++$+++ He must be replaced.
+L2417 +++$+++ u18 +++$+++ m1 +++$+++ ISABEL +++$+++ Then, what do you suggest, Don Sanchez?
+L2415 +++$+++ u18 +++$+++ m1 +++$+++ ISABEL +++$+++ Is this true, Brother Buyl?
+L2414 +++$+++ u24 +++$+++ m1 +++$+++ SANCHEZ +++$+++ ... But there is worse.  He ordered the execution of five members of the nobility...
+L2377 +++$+++ u18 +++$+++ m1 +++$+++ ISABEL +++$+++ We weren't expecting immediate profits, were we?  We must have faith.  We must give time for time.
+L2376 +++$+++ u24 +++$+++ m1 +++$+++ SANCHEZ +++$+++ Every ship returns with a cargo of sick and dying.  But with no gold! The new world proves expensive, Your Majesty.
+L2116 +++$+++ u18 +++$+++ m1 +++$+++ ISABEL +++$+++ Yes.  It would be a pity, wouldn't it?  Call him back!
+L2115 +++$+++ u24 +++$+++ m1 +++$+++ SANCHEZ +++$+++ ... Into a monk...
+L2113 +++$+++ u24 +++$+++ m1 +++$+++ SANCHEZ +++$+++ Never, Your Majesty.  Although...
+L2112 +++$+++ u18 +++$+++ m1 +++$+++ ISABEL +++$+++ You were right, Don Sanchez... His demands could never be granted.
+L1931 +++$+++ u24 +++$+++ m1 +++$+++ SANCHEZ +++$+++ Yes, Your Majesty.
+L1930 +++$+++ u18 +++$+++ m1 +++$+++ ISABEL +++$+++ Is that the man I knew, Treasurer Sanchez?
+L3546 +++$+++ u26 +++$+++ m2 +++$+++ CUTLER +++$+++ Officers, there's your killer, do your duty, arrest him!
+L3545 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ ...so we kill someone famous and if we are caught, we are sent to mental hospital...
+L3497 +++$+++ u26 +++$+++ m2 +++$+++ CUTLER +++$+++ I don't think it's abuse, I think it's torture.
+L3496 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ I'm abused.  Don't you think?
+L3493 +++$+++ u26 +++$+++ m2 +++$+++ CUTLER +++$+++ Can I see your back?
+L3492 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Out on my back when I was a small boy.
+L3491 +++$+++ u26 +++$+++ m2 +++$+++ CUTLER +++$+++ Your father put cigarettes out on you?
+L3490 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ That's what he did to me.  He put cigarettes out on me.
+L3489 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Yeah, he hated me from day when I was born.  Put it out.  Can you put the cigarette out?
+L3488 +++$+++ u26 +++$+++ m2 +++$+++ CUTLER +++$+++ Your father blamed you for your mother's blindness?
+L3487 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Yeah, yeah...bad doctor gave her bad drugs which made her go blind.  And my father blamed me for her blindness...
+L3486 +++$+++ u26 +++$+++ m2 +++$+++ CUTLER +++$+++ Back in the Czech Republic?
+L3485 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Yeah, she went blind giving birth to me. She went to fucking black market doctor to induce me.
+L3484 +++$+++ u26 +++$+++ m2 +++$+++ CUTLER +++$+++ Your mother was blind?
+L3483 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ My father always degraded me.  Killed my self-esteem.  And my mother was blind.
+L3482 +++$+++ u26 +++$+++ m2 +++$+++ CUTLER +++$+++ Tell me about yourself.  What you did as a young boy... what your parents were like.
+L3481 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Give me another one, please.
+L3480 +++$+++ u26 +++$+++ m2 +++$+++ CUTLER +++$+++ I need to know about your background.  I need to know about your upbringing.  Why you're here.
+L3479 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ What else do you need?
+L3478 +++$+++ u26 +++$+++ m2 +++$+++ CUTLER +++$+++ This is not about money, Emil.  I need your trust in me.
+L3477 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Thirty-percent.  No more.  Or I call another lawyer.  This is the biggest case of your life.  Don't try to negotiate.  Thirty percent.  Say yes or no.
+L3476 +++$+++ u26 +++$+++ m2 +++$+++ CUTLER +++$+++ But it's...
+L3475 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ No.  No way.
+L3474 +++$+++ u26 +++$+++ m2 +++$+++ CUTLER +++$+++ I would say...half.  Half is fair.
+L3473 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ What's your cut?  How much?
+L3472 +++$+++ u26 +++$+++ m2 +++$+++ CUTLER +++$+++ Look, I haven't really focused on that kind of thing.
+L3471 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ What about my movie rights?  Book rights?
+L3470 +++$+++ u26 +++$+++ m2 +++$+++ CUTLER +++$+++ Don't worry about him.  Think about yourself.
+L3469 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ No, he is here.  Shit...
+L3468 +++$+++ u26 +++$+++ m2 +++$+++ CUTLER +++$+++ Disappeared.  They're looking everywhere.  Maybe he went back to Czechoslovakia.
+L3467 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ What about Oleg?
+L3466 +++$+++ u26 +++$+++ m2 +++$+++ CUTLER +++$+++ Well, you didn't appreciate the severity of it until recently.  No question about that.
+L3465 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ I was all of these.
+L3464 +++$+++ u26 +++$+++ m2 +++$+++ CUTLER +++$+++ ...delusions and paranoia.
+L3461 +++$+++ u26 +++$+++ m2 +++$+++ CUTLER +++$+++ Oh, sure.
+L3460 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ You bring the cigarettes?
+L3459 +++$+++ u26 +++$+++ m2 +++$+++ CUTLER +++$+++ I brought you some letters.  It's really fan mail.  Women mostly.  One wants to buy you clothes, another sent a check. Another wants a check.
+L3396 +++$+++ u26 +++$+++ m2 +++$+++ CUTLER +++$+++ I'm invoking rights - this man is represented by counsel.  I'm coming with him.
+L3395 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Yes.  Yes, come with me!
+L3394 +++$+++ u26 +++$+++ m2 +++$+++ CUTLER +++$+++ I'm coming with you.
+L3393 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Where are we going?
+L3392 +++$+++ u26 +++$+++ m2 +++$+++ CUTLER +++$+++ Don't say anything.
+L3385 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ He has the camera!  He took the movie!
+L3384 +++$+++ u26 +++$+++ m2 +++$+++ CUTLER +++$+++ Emil.  Take it easy.  Stay with me.  Sit down.  What do you need?  What are you looking for?
+L3383 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Oh no!  No!  Shit!
+L3382 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Here.  I have your money.
+L3381 +++$+++ u26 +++$+++ m2 +++$+++ CUTLER +++$+++ I'm not your lawyer until I see the money.
+L3380 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Are you my attorney?  I'm Emil.  I'm insane.
+L3517 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Daphne, I...
+L3516 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ I don't want to drag you down with me.
+L3515 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ ...Do you really want me to forget about you?
+L3514 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ Forget about me.  You have enough problems of your own.
+L3330 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ Pouring it out!
+L3329 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ What are you doing?
+L3318 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ I'll get my clothes.
+L3317 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ I'll make some for us.
+L3316 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ In the kitchen.
+L3315 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Do you have coffee?
+L3314 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ Right.
+L3313 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ You better get packed.
+L3311 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ I'm glad I met you.
+L3310 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ No matter what happens...I'm glad I met you.
+L3309 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ A good Immigration lawyer could stall the process.  Eddie recommended one.
+L3308 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ If you were my boyfriend, I'd suggest you find another girlfriend that isn't going to jail ten-thousand miles away.
+L3307 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ If I was your boyfriend, I might be.
+L3306 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ Ludwig?  He's gay - are you jealous?
+L3305 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Is he your boyfriend?
+L3302 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ I'm sorry.
+L3301 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ I still can't believe Eddie's gone.
+L3300 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ Are you alright?
+L3181 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ I'm sorry.  I didn't mean to...I'm glad. Actually I'm glad it's over.  All this time.  Hiding.  Never being able to look anyone in the eyes. Always afraid that someone would find out who I was.  Never trusting anyone...
+L3180 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ They're not gonna send you right back.
+L3179 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ You don't know.  I'm sorry.  I was desperate.  That's not me.  I shot a cop.  Can you imagine what they'll do to me when I got to prison?
+L3178 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ I know.
+L3177 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ I'm not a whore.  I'm not a whore.
+L3170 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ I'm just trying to find out who you are.
+L3169 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ What are you asking me?
+L3168 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ So you were never a prostitute?
+L3167 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ I came here.  I had no money.  I knew no one.  I couldn't get a job because you have to have a green card to get work. They approached me - I could've made a lot of money.  I considered it, but... it's not who I am.  They pay me below the table at Ludwig's.
+L3166 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ No.
+L3165 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ What about back home?
+L3164 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ No.
+L3163 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Did you ever turn tricks before?
+L3162 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ Yes, I considered it.
+L3161 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ You considered becoming a prostitute?
+L3160 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Yeah.  This way.
+L3159 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ So...the station is empty?
+L3158 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ The men are out of quarters - practicing putting out fires.
+L3097 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ Somewhere else?
+L3096 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ I can't take you to my place.
+L3095 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ Do you live alone?  I've been in these clothes since...the killings.  Could we stop at your place? I could take a shower...before I go into custody?
+L3094 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Divorced.
+L3093 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ Are you married?
+L3092 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ They won't until this is over.
+L3091 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ I will if they don't send me back.
+L3090 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ If you cooperate with the DA - maybe they'll help you with your situation.
+L3089 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ Now I become custody of police department?
+L3061 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ Yes, but he was a cop.
+L3060 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Alright.  That's a justifiable homicide.
+L3059 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ ...my little sister and I shared a flat - I came home one night and a man was raping her.  His gun was on the chair... He came at me and I shot him.
+L3065 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ You're a cop - you'll never believe me.
+L3064 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Look, we can help you but right now we have to deal with what's happening here. Tell us the truth...is that the truth?
+L3063 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ I'm from a small town in Slovakia.  Like the South here.  The Police is right, a civilian is wrong.  So I fled.
+L3062 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ A cop?
+L3056 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ No, no, don't talk to Immigration!
+L3055 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Are you here illegally?  Don't worry about that.  We'll talk to Immigration. They won't deport you.
+L3051 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Arrest you for what?  Why would we arrest you?
+L3050 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ If I tell you, will you arrest me?
+L3049 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Whether you tell us or not, we'll find out.  Better if it comes from you.
+L3048 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Go on.
+L3047 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ Tamina was a friend of mine.  My shower was broken, she let me use theirs.
+L3046 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ C'mon, start at the beginning.  You know these people?
+L3045 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ I told your partner, I can't help.  I didn't see anything.
+L3214 +++$+++ u28 +++$+++ m2 +++$+++ DUFFY +++$+++ Yeah, sure.  Beep me when you're ready for the press conference.
+L3213 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ I'm ready to be briefed.  Excuse us.
+L3212 +++$+++ u28 +++$+++ m2 +++$+++ DUFFY +++$+++ Oh yeah...?  Alright.
+L3211 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Look, after Jordy briefs me, you can do the press conference.  How about that? The case is all yours.
+L3210 +++$+++ u28 +++$+++ m2 +++$+++ DUFFY +++$+++ Well, I'm the Deputy Chief Fire Marshall and every now and then I'd like to be included in decisions.
+L3209 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ It was my decision, not his.
+L3208 +++$+++ u28 +++$+++ m2 +++$+++ DUFFY +++$+++ Oh.
+L3506 +++$+++ u28 +++$+++ m2 +++$+++ DUFFY +++$+++ There's nothing to talk about.  Get a good lawyer.  You're suspended until your trial.
+L3505 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ But Chief?  Over this??
+L3504 +++$+++ u28 +++$+++ m2 +++$+++ DUFFY +++$+++ How are you going to fight this?  Maybe if Oleg hadn't gotten away and you'd been on the front page, as a hero, this thing would be easier to fight.  You'd have the good to weight against the bad! It's unfortunate that I have to make decisions based upon your press coverage but there's nothing I can do!  Gimme your shield.
+L3503 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ End my career?
+L3502 +++$+++ u28 +++$+++ m2 +++$+++ DUFFY +++$+++ Well this is gonna end your career and probably mine.
+L3501 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Chief - I know I screwed up - but this guy was no innocent civilian.
+L3500 +++$+++ u28 +++$+++ m2 +++$+++ DUFFY +++$+++ Forgot?  You handcuffed a civilian to a tree?!
+L3499 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ What was I supposed to do?  The guy tried to mug me.  I was gonna send a cop back - I just forgot.
+L3498 +++$+++ u28 +++$+++ m2 +++$+++ DUFFY +++$+++ The public doesn't have any idea what we do and now you're going to define our image!  This is going to be our Rodney King!
+L3294 +++$+++ u28 +++$+++ m2 +++$+++ DUFFY +++$+++ Okay.  But not water sports.
+L3293 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Chief - mind if I take her?
+L3203 +++$+++ u28 +++$+++ m2 +++$+++ DUFFY +++$+++ Oh really.  That's nice.  You took a homicide witness to take a shower after your partner was shot?  Are you out of your fucking mind??  Are you having that much trouble gettin' dates?!
+L3202 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ No!  Nothing happened.
+L3201 +++$+++ u28 +++$+++ m2 +++$+++ DUFFY +++$+++ A shower!?  Did you take one, too?
+L3200 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ I let her take a shower.
+L3199 +++$+++ u28 +++$+++ m2 +++$+++ DUFFY +++$+++ What do you mean, 'cleaned up?'
+L3198 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Ladder 20 was on the Rock for training. We stopped there... so she could get cleaned up.
+L3197 +++$+++ u28 +++$+++ m2 +++$+++ DUFFY +++$+++ I came to see how the investigation was going.  I called and you're not here.  I wait up at the station and you don't even show up!!!  I beep you - you don't return my call.  Where the hell have you been?!
+L3196 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Hey, Chief, what are you doing here?
+L2800 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ 'Cause we got more important things to do, like finding out who did it.
+L2799 +++$+++ u28 +++$+++ m2 +++$+++ DUFFY +++$+++ Then why didn't you talk to the reporter?
+L2798 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Who do you think, Chief?!
+L2797 +++$+++ u28 +++$+++ m2 +++$+++ DUFFY +++$+++ Who did cause and origin?
+L3292 +++$+++ u35 +++$+++ m2 +++$+++ KORFIN +++$+++ Yeah.
+L3291 +++$+++ u28 +++$+++ m2 +++$+++ DUFFY +++$+++ Alright.  Swing by her apartment.  Let her pick up her clothes and take her straight to Hoover Street.  You got that?
+L3290 +++$+++ u35 +++$+++ m2 +++$+++ KORFIN +++$+++ Yeah.  He finished awhile ago.
+L3289 +++$+++ u28 +++$+++ m2 +++$+++ DUFFY +++$+++ Did the D.A. videotape her deposition?
+L2805 +++$+++ u28 +++$+++ m2 +++$+++ DUFFY +++$+++ You do that, wiseguy.  Now let's solve this thing before Eddie Flemming does.
+L2804 +++$+++ u35 +++$+++ m2 +++$+++ KORFIN +++$+++ I said, yeah, you're right, Chief.  As soon as we get somethin' we'll let you alert the media.
+L2803 +++$+++ u28 +++$+++ m2 +++$+++ DUFFY +++$+++ What was that, Korfin?
+L2802 +++$+++ u35 +++$+++ m2 +++$+++ KORFIN +++$+++ Yeah, right.
+L2801 +++$+++ u28 +++$+++ m2 +++$+++ DUFFY +++$+++ Don't you guys understand?  It's all about image.  The better we look the more money I get to pay you guys overtime.
+L3028 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ I know.  Relax.  Take it easy.  Don't worry, we'll get those fuckers.
+L3027 +++$+++ u36 +++$+++ m2 +++$+++ LEON +++$+++ He got my gun!  Motherfucker was filming the whole time!
+L3023 +++$+++ u36 +++$+++ m2 +++$+++ LEON +++$+++ No.  I'm okay.
+L3022 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Are you hit?
+L3017 +++$+++ u36 +++$+++ m2 +++$+++ LEON +++$+++ Stay with her.
+L3016 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ The other side of the street.  The guy with the videocamera.  Don't look - put her in the car.  Stay this side.
+L2938 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ C'mere.  You wanna go to homicide school?  Here - make yourself useful.
+L2937 +++$+++ u36 +++$+++ m2 +++$+++ LEON +++$+++ Yeah.
+L2936 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Only one guys checked in?
+L2925 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ It's okay.
+L2924 +++$+++ u36 +++$+++ m2 +++$+++ LEON +++$+++ Sorry...PD only.
+L2923 +++$+++ u36 +++$+++ m2 +++$+++ LEON +++$+++ Still unknown but we're running prints. Kid over there caught the case.
+L2922 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Any I.D.?
+L2921 +++$+++ u36 +++$+++ m2 +++$+++ LEON +++$+++ Takin' a bath.
+L2920 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Where is she?
+L2752 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ A timer.
+L2751 +++$+++ u36 +++$+++ m2 +++$+++ LEON +++$+++ What's he looking for?
+L2633 +++$+++ u36 +++$+++ m2 +++$+++ LEON +++$+++ You ready?
+L2632 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Tomorrow.  At lunch.
+L2631 +++$+++ u36 +++$+++ m2 +++$+++ LEON +++$+++ When?
+L2630 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ I'm gonna propose.
+L2603 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ What's the kid gonna say - sorry? Meanwhile I'm not here anymore. Like last week - we were at the morgue and this guy was all chopped up - spleen here - liver there - his heart in a pan. Six hours ago this guy was walkin' his dog or buyin' a quart of milk.  Who knows?  But some kid's robbed him for $3 or some shit and shot him and now you can't tell if he's a piece of beef or a human being and I'm thinkin' that's me. Sooner or later.  That's me.
+L2602 +++$+++ u36 +++$+++ m2 +++$+++ LEON +++$+++ It was freaky, I'll tell you.  Stupid kid.
+L2601 +++$+++ u36 +++$+++ m2 +++$+++ LEON +++$+++ Maybe you could just put in a shot of Martell?
+L2600 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Vodka tonic.
+L2599 +++$+++ u36 +++$+++ m2 +++$+++ LEON +++$+++ Coffee for me, I gotta slow down.
+L2990 +++$+++ u44 +++$+++ m2 +++$+++ ROSE +++$+++ She washes hair up at Ludwig's - a salon on 63rd and Madison.
+L2989 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ He had a videocamera?  Where is she? Quickly!
+L2988 +++$+++ u44 +++$+++ m2 +++$+++ ROSE +++$+++ Tall, short-haired, scary eyes.  Second guy with him was...shorter, with a wrestler's build.  And he wouldn't turn his videocamera off me.
+L2987 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Describe him.
+L2986 +++$+++ u44 +++$+++ m2 +++$+++ ROSE +++$+++ He said he was her cousin.  I told him where she works.  They were just here.
+L2981 +++$+++ u44 +++$+++ m2 +++$+++ ROSE +++$+++ Daphne.  Another guy came in asking me about her, too.
+L2980 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ What are you saying?
+L2979 +++$+++ u44 +++$+++ m2 +++$+++ ROSE +++$+++ Boy, she's so popular all the sudden.
+L2978 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Did you tell him you did?
+L2977 +++$+++ u44 +++$+++ m2 +++$+++ ROSE +++$+++ No.
+L2976 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Do you have any Czech girls working for you?
+L2975 +++$+++ u44 +++$+++ m2 +++$+++ ROSE +++$+++ Yeah.  He wanted a girl from Czechoslovakia, but I sent him Honey 'cause once they get there, you know, it doesn't really matter - Honey was killed...?  Poor girl...
+L2973 +++$+++ u44 +++$+++ m2 +++$+++ ROSE +++$+++ Oh my G-d.  Honey!  Honey's dead?
+L2972 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ We don't have her I.D. yet, but one of your girls was killed last night at the King Edward Hotel.
+L2971 +++$+++ u44 +++$+++ m2 +++$+++ ROSE +++$+++ What's wrong?
+L2967 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Homicide, Miss Hearn.  It's Detective Eddie Flemming.  Open up.
+L2966 +++$+++ u44 +++$+++ m2 +++$+++ ROSE +++$+++ I have nothin' to say.  If you wanna contact my attorney...
+L2965 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Police.  We'd like to ask you a few questions.
+L2964 +++$+++ u44 +++$+++ m2 +++$+++ ROSE +++$+++ Who's there?
+L3230 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ You know, I don't know.  I like you. You remind me of a puppy I used to have. He pissed on the rug all the time, but I still kept him.
+L3229 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Why'd you help me back there with the Chief?  Why'd you stand up for me like that?
+L3228 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ How you go out on a limb for somebody is by giving her a number of an Immigration lawyer.  Here, here's a number of an Immigration lawyer.  That's how you help her. But you can't get involved in her like that.  You're gonna jeopardize your career, your life and you're gonna jeopardize my case.  And lemme give you another piece of advice.  Maybe you don't watch TV but I'll let you in on a little secret - the whole fuckin' world watches television.  And when you get out there, they know your face.  And the little fame, the little fuckin' itty bitty fame that I get in this city makes it a lot easier for my job.  And I get more done because of it.
+L3227 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ But, I mean, didn't you ever go out on a limb for somebody?  I mean, you shoulda heard her there.  Tellin' her whole story...I believed her.
+L3226 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Well, it's not up to you to decide whether she's innocent or not.  Don't you understand, that's why you're a professional.
+L3225 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ I told you, you know, I thought I was doing the right thing, you know, I think she's innocent.
+L3224 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ No, I don't think you were a fool, I just think you were stupid about it.  I mean, to say the least, you outta know better.  You don't know her well enough. She's got the potential to fucking hang you even if she suggests that you made a pass at her, it's fuckin' over.  You can deny it all you want, but it will not make one fucking bit of difference. You're dead.
+L3223 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Yeah, just her in the shower.  Nothing happened.  Look, I'm sure you probably think I'm a fool and I fucked up, but...
+L3222 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Just a shower?
+L3221 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ I took her there for a shower and that's it.
+L3220 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Well, you shoulda because nobody's gonna believe you didn't...including me.
+L3219 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Look, Eddie, I'm tellin' you - I didn't touch her.
+L3082 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Women like that have a way of turning professionals into amateurs.
+L3081 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Hey.  I'm a professional.
+L3080 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Okay, tell you what, I'll give you a head start.  You take her to the station house.  Don't let her out of your sight. She's the only warm body we got left.
+L3079 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ You know what I'm saying here.
+L3078 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ You're her Savior?  Is she the kid you're gonna save from the burning building?
+L3077 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ C'mon.  You intimidate her 'cause you're a celebrity.  She sees me differently.
+L3076 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ So am I.
+L3075 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ I'm serious here.
+L3074 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ My point exactly.
+L3073 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ I don't have a girlfriend.
+L3072 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ What would your girlfriend think of that?
+L3071 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Yeah.
+L3070 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ You wanna talk to her alone?
+L3069 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Look - let me talk to her.  Any leads I get, they're all yours.  Just let me have a first crack at her.
+L3068 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Raw deal.
+L3067 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ She's fucked.  Even if that story is true.
+L3058 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Something back home?
+L3057 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Why not?
+L3054 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Is that all there is?
+L3053 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ She just saw two of her friends killed! They probably threatened her.
+L3052 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ What are you hiding?  Why are you afraid
+L2999 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Then I guess we're doin' this the right way, aren't we?  If we pull up to a burning building I'll gladly let you go first.
+L2998 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ I wanted to run up to a building on fire, kick in the door, rush into the smoke and save a kid.
+L2997 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Hey!  I always wanted to be a cop when I was a kid.  I dreamed of running up to a door, kicking it in, pulling my gun and yelling 'Freeze!' at the bad guy! What'd you dream about?
+L2996 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Of course.
+L2995 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ So am I.  Alright, I'll go inside and you cover the back.
+L2994 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ I'm on duty.
+L2993 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ You thirsty?
+L2992 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ I'm on my way with Eddie.  Ludwig's. 63rd and Madison.  The suspects might be there already.
+L2991 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Leon - meet us at 63rd and Madison. Hair salon.  Ludwig's.
+L2963 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Better than one.
+L2962 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Two heads.
+L2958 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ I'll call it... tails.
+L2957 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Tell you what - I'll flip you a coin. If you win you can come with me.  If you don't win, you don't come.
+L2956 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ This is ridiculous.  I'm not gonna be in your way - we can talk the case over.
+L2955 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ I'll let you know what happens.
+L2953 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ But what if it does?  You might need my help.
+L2952 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ This has nothing to do with your fire.
+L2951 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Mind if I ride along with you?
+L2950 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ You got any better ideas?
+L2949 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ You goin' to the escort service?
+L2906 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Stay here.
+L2905 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ My folks are.
+L2904 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ You're Polish?
+L2903 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ My parents are from Poland.  I can help with the Eastern European angle.
+L2902 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ This isn't homicide school.
+L2901 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ I can watch you, Eddie.  Maybe I'll learn something.
+L2900 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ There wasn't a fire.  There'll be nothing for you to do.
+L2899 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ I'll come with you.
+L2897 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Or Czechoslovakia.  The Slavs have been fighting the Germans and the Russians for a thousand years.  These are very intense people and they take things personally.
+L2896 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Eastern Europe.  Like what?  Romania? Hungary?
+L2895 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Maybe it's a ritual thing or someone trying to send a message.  Burial rites are taken very seriously in Eastern Europe.  It could be to humiliate them. Just burning them up, no proper funeral, it's like condemning them to hell.
+L2893 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Look, I'm not even sure she has anything to do with this.  I saw her outside after the fire - thought it was a lead. Maybe she saw something.  Maybe she was visiting somebody here.  Who knows?
+L2892 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ What would you call her?
+L2891 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Who says she's a suspect?
+L2890 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Maybe you don't care about that either.  Prettiest suspect I've had in awhile.
+L2889 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Hmmmm.
+L2888 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Pretty.
+L2887 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ The Super said he'd seen her before but she didn't live here.
+L2886 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ You were right, they were both dead before the fire.  The male was stabbed so hard the killer broke off the tip of the knife in his spine.  That's usually an indicator of something personal.
+L2885 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ If you found me steppin' on your crime scene - it might piss you off, too.  What about the report?
+L2884 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Sure.  But I would like to ask you something.  You got a problem with me?
+L2883 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Did you get a report from the M.E.?
+L2882 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Good.  Good.  Commendable.
+L2881 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ I don't even watch TV.
+L2880 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Nah, why should you?
+L2879 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Well, just so you know, I don't care about that stuff.
+L2878 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Well, just so you know.  I gave you guys the credit.
+L2877 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Nah, I musta missed it.
+L2876 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Watch the news?
+L2875 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ It's your crime scene now.  You can do what you want.
+L2748 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Why don't you explain it, Bobby.  Hey Camello!  You mind punching a hole in the floor?
+L2747 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ No, what is it?
+L2746 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ You know what that is, right?
+L2731 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ No, we don't mind.  You mind Leon?
+L2730 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Hey, that's great you guys got it all wrapped up, but you don't mind if we go through the routine?  It gives us somethin' to do.
+L3249 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Smarter than Americans.  You're fed cry baby talk shows all day long.  Not only will Americans believe me, they'll cry for me.  So...Detective Eddie Flemming, would you like to say goodbye to your Nicolette? Maybe you can propose to her now?
+L3248 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ You really think you'll be able to fool a jury with this bullshit?  How fuckin' stupid are you?
+L3244 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ If you kill me and film it you're putting a noose around your neck.
+L3243 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ So tabloids don't have to do re enactments.  They going to have real movie this time.
+L3242 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Good - be tough to the end.  Actor who plays you will want to die like hero.
+L3241 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Then do it, asshole.
+L3240 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ I kill someone famous.
+L3239 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ What's your accomplishment.
+L3238 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Your opinion.  You see, they going to make a movie about me, too, Eddie.  And write books.
+L3237 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ What do you want?
+L3236 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ So...who's Nicky?
+L3157 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Don't be late.
+L3156 +++$+++ u41 +++$+++ m2 +++$+++ NICOLETTE +++$+++ Thank you.
+L3155 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ See you later.  Good luck.
+L3154 +++$+++ u41 +++$+++ m2 +++$+++ NICOLETTE +++$+++ Okay.
+L3153 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Yeah, yeah.  Good thing.
+L3152 +++$+++ u41 +++$+++ m2 +++$+++ NICOLETTE +++$+++ Okay.  And you know what, I'll swing by my place, grab a couple pairs of shoes and maybe just test them out next to yours...How's that... Would that be a good thing.
+L3151 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Yeah.  I promise.
+L3150 +++$+++ u41 +++$+++ m2 +++$+++ NICOLETTE +++$+++ You promise?
+L3149 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Tonight.
+L3148 +++$+++ u41 +++$+++ m2 +++$+++ NICOLETTE +++$+++ Okay, til tonight.
+L3147 +++$+++ u41 +++$+++ m2 +++$+++ NICOLETTE +++$+++ I love you.
+L3146 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Patronizing you... Nay, I love you.
+L3145 +++$+++ u41 +++$+++ m2 +++$+++ NICOLETTE +++$+++ Yeah.  I'll do that.  As long as you're not patronizing me.
+L3144 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ I promise.  We'll talk.  You'll be great.  You'll be fine.  Go ahead, just imagine that, uh... Just look into the lens and imagine you're talking to me.
+L3143 +++$+++ u41 +++$+++ m2 +++$+++ NICOLETTE +++$+++ Promise?
+L3142 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ I'll tell you tonight.  Let's do it tonight.  As soon as you get back we'll talk.  We'll talk.
+L3141 +++$+++ u41 +++$+++ m2 +++$+++ NICOLETTE +++$+++ No.  No, listen to me here.  I want to know what you're talking about.  You know, the shoe thing and the marriages and...
+L3140 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ No.  Go ahead.  You're gonna be great.
+L3139 +++$+++ u41 +++$+++ m2 +++$+++ NICOLETTE +++$+++ Okay.  That is great.  But I can't go now, we're in the middle of something here.
+L3138 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Well, that's great.
+L3137 +++$+++ u41 +++$+++ m2 +++$+++ NICOLETTE +++$+++ Yeah.
+L3136 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ That's good.
+L3135 +++$+++ u41 +++$+++ m2 +++$+++ NICOLETTE +++$+++ Oh my G-d, they want me to anchor.  They want me to anchor tonight!
+L3130 +++$+++ u41 +++$+++ m2 +++$+++ NICOLETTE +++$+++ Okay.  Okay.  Hold that thought just for a second.  They only call me when it's an emergency.  Just hold that thought.  Can you call back?
+L3129 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Answer it.
+L3128 +++$+++ u41 +++$+++ m2 +++$+++ NICOLETTE +++$+++ No.  Tell me what you want to say.
+L3127 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Answer the phone.
+L3126 +++$+++ u41 +++$+++ m2 +++$+++ NICOLETTE +++$+++ Don't worry about the damn phone.  I won't answer it.
+L3121 +++$+++ u41 +++$+++ m2 +++$+++ NICOLETTE +++$+++ Jesus.  And last week you came over with blood on your shoes.  What am I going to do with you?
+L3120 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Could be Leon's.
+L3119 +++$+++ u41 +++$+++ m2 +++$+++ NICOLETTE +++$+++ Look at this.  You have blood on your shirt.  Whose is it?
+L3117 +++$+++ u41 +++$+++ m2 +++$+++ NICOLETTE +++$+++ You're not so bad yourself.
+L3116 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ You're ruthless.
+L3115 +++$+++ u41 +++$+++ m2 +++$+++ NICOLETTE +++$+++ Well, who was it that taught me how to do that?  Huh?
+L3114 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ You were merciless.  You didn't give a shit if you got me or not.
+L3113 +++$+++ u41 +++$+++ m2 +++$+++ NICOLETTE +++$+++ That was good.  You were holding the evidence.
+L3112 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Yeah, well you took the camera and put it right down on the evidence.  That was...
+L3111 +++$+++ u41 +++$+++ m2 +++$+++ NICOLETTE +++$+++ Yes you are.  I'm not just some reporter.  I don't just stick a microphone in your face.  You could give me something.
+L3110 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ I'm not.
+L3109 +++$+++ u41 +++$+++ m2 +++$+++ NICOLETTE +++$+++ Alright, alright, Eddie.  Don't patronize me.
+L3108 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Maybe I should just, ya know...turn to the cameras and say, do you mind if we just work something out?
+L3107 +++$+++ u41 +++$+++ m2 +++$+++ NICOLETTE +++$+++ Stop it.
+L3106 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Oh, I'm sorry.  Did I embarrass you, sweetheart?  Oh...
+L3105 +++$+++ u41 +++$+++ m2 +++$+++ NICOLETTE +++$+++ You didn't have to embarrass me in front of my colleagues.  You could give me something.
+L3104 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ I can't...I can't answer you just because you want me to answer you!
+L3103 +++$+++ u41 +++$+++ m2 +++$+++ NICOLETTE +++$+++ What is your problem?  Why'd you snap at me?  I just wanted a statement.
+L3102 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Hey.
+L3101 +++$+++ u41 +++$+++ m2 +++$+++ NICOLETTE +++$+++ Hey, honey.
+L3044 +++$+++ u41 +++$+++ m2 +++$+++ NICOLETTE +++$+++ Okay.
+L3043 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Alright.
+L3042 +++$+++ u41 +++$+++ m2 +++$+++ NICOLETTE +++$+++ Alright.
+L3041 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Alright?
+L3040 +++$+++ u41 +++$+++ m2 +++$+++ NICOLETTE +++$+++ Alright.
+L3039 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Yeah.  Now's not a good time.
+L3038 +++$+++ u41 +++$+++ m2 +++$+++ NICOLETTE +++$+++ Eddie, are you okay?
+L3037 +++$+++ u41 +++$+++ m2 +++$+++ NICOLETTE +++$+++ Alright, cut, cut, cut.
+L3036 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Um...now is not a good time, okay. Detective Jackson's hurt.  He's fine. I've got a Fire Marshall shot, Detective Jackson is hurt but not seriously.
+L3035 +++$+++ u41 +++$+++ m2 +++$+++ NICOLETTE +++$+++ Do you have the suspect in custody?
+L3034 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ He was hurt, but not seriously.  He'll be fine.
+L3033 +++$+++ u41 +++$+++ m2 +++$+++ NICOLETTE +++$+++ Okay.  But I do understand that your partner, Leon Jackson's been injured. Is that correct?
+L3032 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ I really can't give out any information right now at this point.
+L3031 +++$+++ u41 +++$+++ m2 +++$+++ NICOLETTE +++$+++ I understand, but I noticed that the Fire Marshall is here with you.  Is this somehow related to the fire department?
+L3030 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ I can't talk right now.  We have some things to take care of.
+L3029 +++$+++ u41 +++$+++ m2 +++$+++ NICOLETTE +++$+++ Detective - can you tell us what happened here?
+L2765 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ We don't know.  When I have more I'll let you know.
+L2764 +++$+++ u41 +++$+++ m2 +++$+++ NICOLETTE +++$+++ Is it drug related?
+L2763 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ You know you can't do that.  C'mon.
+L2762 +++$+++ u41 +++$+++ m2 +++$+++ NICOLETTE +++$+++ Can we go up to the crime scene?
+L2761 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ There are two bodies found at this point.
+L2760 +++$+++ u41 +++$+++ m2 +++$+++ NICOLETTE +++$+++ How many victims are up there?
+L2759 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ We don't know that yet.  It's much too early.  There's a lot to be done.
+L2758 +++$+++ u41 +++$+++ m2 +++$+++ NICOLETTE +++$+++ Detective, does it look like a murder?
+L2665 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Again?  I didn't wanna do it the first time.
+L2664 +++$+++ u31 +++$+++ m2 +++$+++ HAWKINS +++$+++ Any chance we can do that again?
+L2656 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Yeah, yeah.  Jesus.
+L2655 +++$+++ u31 +++$+++ m2 +++$+++ HAWKINS +++$+++ Okay.  You ready?
+L2654 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Keep them out of my way.
+L2653 +++$+++ u31 +++$+++ m2 +++$+++ HAWKINS +++$+++ Ready?
+L2652 +++$+++ u31 +++$+++ m2 +++$+++ HAWKINS +++$+++ You're worried for my safety.  I'm touched.
+L2651 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ I hope this prick doesn't run.  My knees are killing me.  Stay behind me.
+L2648 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Yeah.  And he still went to the party.
+L2647 +++$+++ u31 +++$+++ m2 +++$+++ HAWKINS +++$+++ That's unique.
+L2646 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ He's from Antigua.  His girlfriend was taking too long to put her make-up on. they were late for a party.  Stabbed her with a beer bottle.
+L2645 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Not what.  Who.
+L2644 +++$+++ u31 +++$+++ m2 +++$+++ HAWKINS +++$+++ So what's unique?
+L2612 +++$+++ u31 +++$+++ m2 +++$+++ HAWKINS +++$+++ My kids?  Let's see...Susan's 15. Aundrea's 9.  Don't tell me you're thinking about having a kid!  How old are you?  Never mind. Let me just tell you this: Every stupid cliche you hear about kids - they change your life, they make you a better person, they make you whole...  It's all true!  Before I had kids when friends talked about their kids, I wanted to vomit.  Now -- I get it.  Am I right, Leon?
+L2611 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ How old are your kids?
+L2607 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ I'm not moody.
+L2606 +++$+++ u31 +++$+++ m2 +++$+++ HAWKINS +++$+++ I think you're getting a little moody there, Eddie.
+L2605 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Not chopped up.  Not chopped up like that.  I mean, what do I got left? Coupla articles.  A medal or two. Plaque here and there and in a coupla years no one remembers me anymore.
+L2604 +++$+++ u31 +++$+++ m2 +++$+++ HAWKINS +++$+++ Sooner or later that's everybody.
+L2596 +++$+++ u31 +++$+++ m2 +++$+++ HAWKINS +++$+++ Jesus Christ.
+L2595 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ So we're waitin' to hit this warrant - we got Emergency Service with the heavy weapons standin' by - ready to go.  I say, lemme get a cigar outta the car.  I go to get the cigar and BOOM!  All the sudden I turn around and a kid with a shotgun let one go.  Right where I was standin'.  That coulda been it.  I coulda had my head blown off and for what?  Some stupid kid got panicky, takes the safety off and it's over.  If I hadn't gone back for that cigar - for a bad habit - I would've had my head blown off.
+L2628 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ No.  Are you proposing?
+L2627 +++$+++ u45 +++$+++ m2 +++$+++ SECONDARY OFFICER +++$+++ Are you married?
+L2626 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Dog food.
+L2625 +++$+++ u45 +++$+++ m2 +++$+++ SECONDARY OFFICER +++$+++ And what do you do with the bones?
+L2624 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ You stuff sausage in it.
+L2623 +++$+++ u45 +++$+++ m2 +++$+++ SECONDARY OFFICER +++$+++ You're a butcher?  What do you use pig intestines for?
+L2622 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ I am butcher.
+L2621 +++$+++ u45 +++$+++ m2 +++$+++ SECONDARY OFFICER +++$+++ Okay.  You work in a vodka factory.  I understand that.  And what kind of work do you do?
+L3286 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Come alone.  Bring cash.  And we'll talk about surrendering.
+L3285 +++$+++ u31 +++$+++ m2 +++$+++ HAWKINS +++$+++ Wait a minute.  Wait a minute.
+L3284 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ If you don't want my film - I'll call another show.  And they will show it.
+L3283 +++$+++ u31 +++$+++ m2 +++$+++ HAWKINS +++$+++ What?  It doesn't work that way.
+L3282 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ We'll talk about that.  Four o'clock gives you time to go to bank.  Three hundred thousand dollars.
+L3281 +++$+++ u31 +++$+++ m2 +++$+++ HAWKINS +++$+++ I'll meet you on one condition - I get exclusivity and you surrender to me.
+L3280 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ No.  I'm the best that's ever threatened you.
+L3279 +++$+++ u31 +++$+++ m2 +++$+++ HAWKINS +++$+++ Look asshole.  I've been threatened by better than you.
+L3278 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Come to 45 Broadway.  Don't bring the Police.  Come alone or you'll be in my next film.
+L3556 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ If he doesn't lower his gun I'll fucking kill her.
+L3555 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Let her go!  Let her go!!
+L3554 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Tell him to put his gun down!
+L3436 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ The Sheraton!  On Broadway!  Room 210. Go get Oleg.  He'll kill you.
+L3435 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Where's your partner?
+L3434 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Get down on your knees.
+L3433 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ C'mon.  Pull the trigger.  Do it.  Oh, look, you're sweating.  You don't have the balls.
+L3432 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ You'll be my first.
+L3431 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ You can't kill me.  You're not a cop. Just fireman with a gun.  I bet you never shot anybody in your life.
+L3421 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Tommy, take a walk.
+L3420 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ My father was.  He gave me many lessons about fire.  Now it's my friend.
+L3419 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Were you a fireman?  That how you knew how to rig the apartment?
+L2858 +++$+++ u32 +++$+++ m2 +++$+++ HONEY +++$+++ Alright, alright - don't hurt me! Please, it's in my book, in my purse!
+L2857 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Give me the address!!
+L2856 +++$+++ u32 +++$+++ m2 +++$+++ HONEY +++$+++ Look, man, I don't give a shit if you want sex or not, but you're payin' for my time.
+L2855 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Listen to me.  I don't want sex.  Just give me the address and then you go.
+L2854 +++$+++ u32 +++$+++ m2 +++$+++ HONEY +++$+++ Look.  Do we have a problem here? There's no reason to have a problem. I'm gonna make you feel real good.  You wanna Czech girl? After I'm done with you, you won't miss her.  Now why don't you pay me?
+L2853 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ I like to talk to the person who runs the service.  Can you give me address?
+L2852 +++$+++ u32 +++$+++ m2 +++$+++ HONEY +++$+++ That's confidential.  Could you put the money on the dresser?
+L2851 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Where is escort service?
+L2850 +++$+++ u32 +++$+++ m2 +++$+++ HONEY +++$+++ It's an outcall service run out of an apartment.  I don't meet the other girls.  Aren't you gonna get undressed?
+L2849 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ I ordered a Czech girl.  Daphne, you know her?
+L2848 +++$+++ u32 +++$+++ m2 +++$+++ HONEY +++$+++ Now I like to get business out of the way before we get down to pleasure.  Why don'tchya put my money on the dresser.
+L2847 +++$+++ u32 +++$+++ m2 +++$+++ HONEY +++$+++ Baby, I'm anybody you want me to be. I'm a little schoolgirl, I'm mommy, I'm a Czech girl.
+L2846 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Where's Czech girl?
+L2845 +++$+++ u32 +++$+++ m2 +++$+++ HONEY +++$+++ Hi, I'm Honey.
+L2581 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ He doesn't speak English.
+L2580 +++$+++ u33 +++$+++ m2 +++$+++ IMMIGRATION OFFICER +++$+++ I'd like to speak for himself, okay?
+L2579 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Two weeks.
+L2578 +++$+++ u33 +++$+++ m2 +++$+++ IMMIGRATION OFFICER +++$+++ How long are you planning to stay?
+L2577 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ We are both from Prague.
+L2574 +++$+++ u33 +++$+++ m2 +++$+++ IMMIGRATION OFFICER +++$+++ No, you're travelling together.  I want to talk to you together.  Hi, how are you?  Can I take a look at your documents?  Are you related?
+L2573 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Is there a problem?
+L2572 +++$+++ u33 +++$+++ m2 +++$+++ IMMIGRATION OFFICER +++$+++ Please join us.  Come on forward.
+L2571 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Yes.
+L2570 +++$+++ u33 +++$+++ m2 +++$+++ IMMIGRATION OFFICER +++$+++ Is he with you?  Are you travelling together?
+L2569 +++$+++ u33 +++$+++ m2 +++$+++ IMMIGRATION OFFICER +++$+++ Can you show me?  Sir, no cameras in the FIS area!
+L2568 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ I have five-hundred dollars.
+L2567 +++$+++ u33 +++$+++ m2 +++$+++ IMMIGRATION OFFICER +++$+++ How much money are you carrying with you?
+L2566 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Two weeks holiday.
+L2565 +++$+++ u33 +++$+++ m2 +++$+++ IMMIGRATION OFFICER +++$+++ What is your intended purpose of your visit to the United States?
+L2564 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Yes sir.
+L2563 +++$+++ u33 +++$+++ m2 +++$+++ IMMIGRATION OFFICER +++$+++ Next.  Could I see your documents, please?
+L2915 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Yes.  Both.
+L2914 +++$+++ u48 +++$+++ m2 +++$+++ VENDOR +++$+++ Hey, tabloids paid Ted Bundy - famous serial killer - half a million for his interview.  And how much you think Monica got for writing book about the President coming on to her?  It pays to be a killer or a whore in this country. Look, you want magazine or not?
+L2913 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Million?!  The killer gets one million dollars for a television interview?
+L2912 +++$+++ u48 +++$+++ m2 +++$+++ VENDOR +++$+++ In here, says he wants a million.
+L2911 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Do you know how much killer gets for movie rights?
+L2910 +++$+++ u48 +++$+++ m2 +++$+++ VENDOR +++$+++ This all you want?
+L2909 +++$+++ u48 +++$+++ m2 +++$+++ VENDOR +++$+++ New York's finest.  This is his case.
+L2908 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Who is he?
+L3548 +++$+++ u42 +++$+++ m2 +++$+++ OLEG +++$+++ No.  You are the traitor.  You are murderer.  I am director.  Action!
+L3547 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Traitor!!
+L3378 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ You think you are a director?  You are a fucking little, small Russian piece of shit.  And I hate you.  I fucking hate you.
+L3377 +++$+++ u42 +++$+++ m2 +++$+++ OLEG +++$+++ No, I don't get that!
+L3376 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ You got that?
+L3375 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Yes.  But there's only one problem - you want credit but the problem is - I don't share credit.
+L3374 +++$+++ u42 +++$+++ m2 +++$+++ OLEG +++$+++ Yes.  Before we hand in the next video - I put titles on it and my credit is going to read - Directed by Oleg Razgul.
+L3373 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Credit?
+L3372 +++$+++ u42 +++$+++ m2 +++$+++ OLEG +++$+++ I'm serious...this - this is a great American film.  Full of violence and sex.  And I want my credit.
+L3370 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Your idea?  I thought it was my idea.
+L3369 +++$+++ u42 +++$+++ m2 +++$+++ OLEG +++$+++ Because I am the director.  Don't you realize, if it wasn't for my film, for my talent, my idea to do this - no way would we be sitting here right now.
+L3368 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Why did you leave that stuff in about you being the director?
+L3366 +++$+++ u42 +++$+++ m2 +++$+++ OLEG +++$+++ Be quiet.  Watch.
+L3365 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ I told you to cut that out before we handed in the tape!
+L3364 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Bad last moment - I cut it out.
+L3363 +++$+++ u42 +++$+++ m2 +++$+++ OLEG +++$+++ This is my project.  I say 'action.'  I am the director!  You are the talent. You wait for me to say 'action.'  And 'action!'
+L3362 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Shut up.  Look!
+L3361 +++$+++ u42 +++$+++ m2 +++$+++ OLEG +++$+++ I'm serious.
+L3360 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ The one who got caught in the bathroom.  George Michael.
+L3359 +++$+++ u42 +++$+++ m2 +++$+++ OLEG +++$+++ In movie they make of us, who do you think would act me?
+L3357 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Oleg, don't be paranoid.  You got a hundred-fifty thousand dollars, didn't you?  I gave you half of what they gave me.  Look - here we are!
+L3356 +++$+++ u42 +++$+++ m2 +++$+++ OLEG +++$+++ You are success story?  I am success story!  Why do you say I and not we?
+L3251 +++$+++ u42 +++$+++ m2 +++$+++ OLEG +++$+++ Cut!
+L3250 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Okay.  He has nothing to say.  Start the camera!
+L3247 +++$+++ u42 +++$+++ m2 +++$+++ OLEG +++$+++ Good idea!
+L3246 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ No.  We are insane.  Who else but crazy men would film their murders?  So we kill someone famous and if we are caught, we are sent to mental hospital. But what good is money there?  Because once in hospital I say I not crazy. Just pretended to be acquitted.  We see psychiatrists.  They must certify we are sane and because of your - what is law called?  Oh - I got it.  Because of your Double Jeopardy law, we can't be tried for same crime twice.  We come out free, rich and famous!
+L3193 +++$+++ u42 +++$+++ m2 +++$+++ OLEG +++$+++ This way.  Hold it this way.  Good.
+L3192 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Sit down!
+L3191 +++$+++ u42 +++$+++ m2 +++$+++ OLEG +++$+++ Let me get a shot of it.
+L3190 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ What does it look like?  It's an address book!
+L3189 +++$+++ u42 +++$+++ m2 +++$+++ OLEG +++$+++ What is that?
+L3188 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Put the camera down, Oleg.
+L3187 +++$+++ u42 +++$+++ m2 +++$+++ OLEG +++$+++ Why not?
+L3186 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ And the whore's murder?  You didn't erase that either, did you?  Don't lie, I won't be angry.
+L3185 +++$+++ u42 +++$+++ m2 +++$+++ OLEG +++$+++ I did.
+L3184 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ The video of Milos and Tamina - I told you to erase it.
+L3183 +++$+++ u42 +++$+++ m2 +++$+++ OLEG +++$+++ What is it?
+L3088 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Don't want to film this?
+L3087 +++$+++ u42 +++$+++ m2 +++$+++ OLEG +++$+++ Oh, shit.  I hate looking at that!
+L3085 +++$+++ u42 +++$+++ m2 +++$+++ OLEG +++$+++ Does it hurt?
+L3084 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Shut up.
+L3083 +++$+++ u42 +++$+++ m2 +++$+++ OLEG +++$+++ Gotta light the scene better.  Now it's more moody... like a scene from THE THIRD MAN.
+L2844 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Oleg, get in bathroom, stay there and shut up!
+L2843 +++$+++ u42 +++$+++ m2 +++$+++ OLEG +++$+++ Whatever we do - we fuck her, right?
+L2842 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Get in the bathroom!
+L2790 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ I'm homesick.  You have Eastern European girl?  A Czech girl?
+L2789 +++$+++ u42 +++$+++ m2 +++$+++ OLEG +++$+++ Whore?
+L2783 +++$+++ u42 +++$+++ m2 +++$+++ OLEG +++$+++ I'll do it.  Don't hurt my camera!
+L2782 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ How you erase this?
+L2781 +++$+++ u42 +++$+++ m2 +++$+++ OLEG +++$+++ You said speak Czech!
+L2780 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Speak English!
+L2779 +++$+++ u42 +++$+++ m2 +++$+++ OLEG +++$+++ I'm not filming.  I'm watching Milos die.  It's just like a move but realer.
+L2778 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Turn that fucking thing off!
+L2671 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Smell like chemicals...for smoking drugs.
+L2670 +++$+++ u42 +++$+++ m2 +++$+++ OLEG +++$+++ What?
+L2668 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ For five years I paid for your stupidness - you'll carry my bag for the rest of my life if I say so.  Unless you refuse, Oleg.
+L2667 +++$+++ u42 +++$+++ m2 +++$+++ OLEG +++$+++ Why should I carry your bag?  I am not a dog.
+L2666 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Turn that off!  Get the bags.
+L2640 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ We have no money.  Come on.
+L2639 +++$+++ u42 +++$+++ m2 +++$+++ OLEG +++$+++ Look.  New videocameras.  Color viewfinder.  Image stabilization. Solarization.  Night vision.
+L2638 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Because I don't like your ugly language. I heard enough of it in school!  Now speak Czech or English.  And don't fool around anymore.  You almost got us thrown out!
+L2637 +++$+++ u42 +++$+++ m2 +++$+++ OLEG +++$+++ Why?  Why do I always have to speak to you in Czech?
+L2636 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Don't speak Russian!
+L2635 +++$+++ u42 +++$+++ m2 +++$+++ OLEG +++$+++ Look.  Times Square.  Just like in the movies!
+L2562 +++$+++ u42 +++$+++ m2 +++$+++ OLEG +++$+++ I want to document my trip to America.
+L2561 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Did you hear what I said?
+L2560 +++$+++ u42 +++$+++ m2 +++$+++ OLEG +++$+++ Okay.
+L2559 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Don't fool around.
+L2558 +++$+++ u42 +++$+++ m2 +++$+++ OLEG +++$+++ Okay.
+L2557 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Just do what I do.  Say the same thing I say.  Don't open your mouth.
+L2692 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ You spent all the money while I was in prison?  Now you tell me to get a job fixing toilets?!?
+L2691 +++$+++ u39 +++$+++ m2 +++$+++ MILOS +++$+++ We started over, you can too.
+L2690 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ A job??  As a plumber???  You think I come to America to work!
+L2689 +++$+++ u39 +++$+++ m2 +++$+++ MILOS +++$+++ It's easy to learn.
+L2688 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ As a plumber?!
+L2687 +++$+++ u39 +++$+++ m2 +++$+++ MILOS +++$+++ Yes, the money is good.
+L2686 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ A job?
+L2685 +++$+++ u39 +++$+++ m2 +++$+++ MILOS +++$+++ I can get you a job.
+L2682 +++$+++ u39 +++$+++ m2 +++$+++ MILOS +++$+++ Look at the way we live.  I'm a plumber. You think I'd be working if I had money?!
+L2681 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Ha. Ha.
+L2680 +++$+++ u39 +++$+++ m2 +++$+++ MILOS +++$+++ We spent it!
+L2679 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Milos.  Get my money!
+L2678 +++$+++ u39 +++$+++ m2 +++$+++ MILOS +++$+++ Take your eyes off her, Oleg!  Look.  It wasn't my fault you two were caught.  It's his fault.  Trying to get the bank clerk's phone number?!  I wasn't going to wait!!!
+L2676 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ You know me...I never hurt anybody. Where's the money?
+L2675 +++$+++ u39 +++$+++ m2 +++$+++ MILOS +++$+++ Did you hurt her?
+L2674 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Your sister said she didn't know where you were so you shouldn't write to her with return address if you're hiding.
+L2673 +++$+++ u30 +++$+++ m2 +++$+++ EMIL +++$+++ Surprise!  Surprise!
+L2672 +++$+++ u39 +++$+++ m2 +++$+++ MILOS +++$+++ Emil???!
+L3353 +++$+++ u37 +++$+++ m2 +++$+++ MAGGIE +++$+++ You want the tape?  There it is!
+L3352 +++$+++ u31 +++$+++ m2 +++$+++ HAWKINS +++$+++ Viewer discretion advised!
+L3275 +++$+++ u37 +++$+++ m2 +++$+++ MAGGIE +++$+++ Trust me, you'll want to take this call.
+L3274 +++$+++ u31 +++$+++ m2 +++$+++ HAWKINS +++$+++ I can't talk to anybody right now, can't you see I'm busy!  I can't talk business.  Hang up.  Have a drink.  Get her a whiskey.
+L3273 +++$+++ u37 +++$+++ m2 +++$+++ MAGGIE +++$+++ You've got a call.
+L3272 +++$+++ u31 +++$+++ m2 +++$+++ HAWKINS +++$+++ What are you doing here?
+L3271 +++$+++ u37 +++$+++ m2 +++$+++ MAGGIE +++$+++ Robert...?
+L3413 +++$+++ u36 +++$+++ m2 +++$+++ LEON +++$+++ Don't give me that fucking shit.
+L3412 +++$+++ u31 +++$+++ m2 +++$+++ HAWKINS +++$+++ If I didn't put it on somebody else would!  I was his friend!
+L3411 +++$+++ u36 +++$+++ m2 +++$+++ LEON +++$+++ You outta be ashamed.  Ashamed of yourself.
+L3410 +++$+++ u31 +++$+++ m2 +++$+++ HAWKINS +++$+++ This footage will work in your favor. When the jury sees this - no matter what Cutler tries, they'll convict him.
+L3409 +++$+++ u36 +++$+++ m2 +++$+++ LEON +++$+++ And you, you'll pay for what you did!
+L2615 +++$+++ u31 +++$+++ m2 +++$+++ HAWKINS +++$+++ Paulie, you've got kids, right?
+L2614 +++$+++ u36 +++$+++ m2 +++$+++ LEON +++$+++ Yeah?
+L2610 +++$+++ u31 +++$+++ m2 +++$+++ HAWKINS +++$+++ In love?  With who?
+L2609 +++$+++ u36 +++$+++ m2 +++$+++ LEON +++$+++ Of course he's moody.  He thinks he's in love.
+L2608 +++$+++ u31 +++$+++ m2 +++$+++ HAWKINS +++$+++ Isn't he a little moody?
+L3269 +++$+++ u41 +++$+++ m2 +++$+++ NICOLETTE +++$+++ Oh my G-d.  We were having lunch here. He started making overtures - talking about little shoes next to his in his closet but I got a call to anchor - and I walked out on him.  I walked out on him when he was trying to ask me to marry him!!
+L3268 +++$+++ u31 +++$+++ m2 +++$+++ HAWKINS +++$+++ That morning.  He was talking to me and Leon about marriage.
+L3267 +++$+++ u41 +++$+++ m2 +++$+++ NICOLETTE +++$+++ Alright.  Go ahead.
+L3266 +++$+++ u31 +++$+++ m2 +++$+++ HAWKINS +++$+++ I'm trying to tell you.
+L3265 +++$+++ u41 +++$+++ m2 +++$+++ NICOLETTE +++$+++ I want to hear everything he said.
+L3264 +++$+++ u31 +++$+++ m2 +++$+++ HAWKINS +++$+++ Well, he...
+L3263 +++$+++ u41 +++$+++ m2 +++$+++ NICOLETTE +++$+++ What do you mean you know?  He told you he was gonna propose to me?
+L3262 +++$+++ u31 +++$+++ m2 +++$+++ HAWKINS +++$+++ I know.
+L2591 +++$+++ u33 +++$+++ m2 +++$+++ IMMIGRATION OFFICER +++$+++ Excuse me?
+L2590 +++$+++ u42 +++$+++ m2 +++$+++ OLEG +++$+++ Yes.  No.  Both.  When I was a boy, I see movie at school called "It's a Wonderful Life" directed by Frank Capra. Ever since I want to come to America. Land of the free.  Home of the brave.  A land where anyone can be anything. As long as they are white.
+L2589 +++$+++ u33 +++$+++ m2 +++$+++ IMMIGRATION OFFICER +++$+++ Movies...to be in the movies or to see movies?
+L2588 +++$+++ u42 +++$+++ m2 +++$+++ OLEG +++$+++ I'm here for movies.
+L2587 +++$+++ u33 +++$+++ m2 +++$+++ IMMIGRATION OFFICER +++$+++ What are you coming here to do?
+L2586 +++$+++ u42 +++$+++ m2 +++$+++ OLEG +++$+++ A cheap hotel.
+L2585 +++$+++ u33 +++$+++ m2 +++$+++ IMMIGRATION OFFICER +++$+++ Yes, we're in New York now.  But where are you planning to stay in New York?
+L2584 +++$+++ u42 +++$+++ m2 +++$+++ OLEG +++$+++ New York.
+L2583 +++$+++ u33 +++$+++ m2 +++$+++ IMMIGRATION OFFICER +++$+++ Then answer my questions.  Where were you planning to stay during the two weeks that you're here?
+L2582 +++$+++ u42 +++$+++ m2 +++$+++ OLEG +++$+++ I speak English.
+L2576 +++$+++ u33 +++$+++ m2 +++$+++ IMMIGRATION OFFICER +++$+++ Okay.  You're a Czech national and you're a Russian national.  How do you know one another?
+L2575 +++$+++ u42 +++$+++ m2 +++$+++ OLEG +++$+++ Yes...he's my friend.
+L3403 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ He's yours but I take him in!  I'll drive him to the precinct, you can have him but I'm walkin' him in.
+L3402 +++$+++ u36 +++$+++ m2 +++$+++ LEON +++$+++ Well, he killed my partner!
+L3401 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ He's my collar!
+L3400 +++$+++ u36 +++$+++ m2 +++$+++ LEON +++$+++ We're takin' him.  Don't argue!
+L3399 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ No way!  He's mine!
+L3398 +++$+++ u36 +++$+++ m2 +++$+++ LEON +++$+++ I'll take him.
+L2745 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Evidence.  Of a homicide.
+L2744 +++$+++ u36 +++$+++ m2 +++$+++ LEON +++$+++ What was that?
+L2743 +++$+++ u36 +++$+++ m2 +++$+++ LEON +++$+++ Yeah, well, some people got their priorities straight.
+L2742 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ And while they're burning up, they're still goin' down on each other?  You got to hand it to them.
+L2741 +++$+++ u36 +++$+++ m2 +++$+++ LEON +++$+++ That's what it looks like to me.
+L2740 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ So the way you see it, two crack heads burned themselves up?
+L2733 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Thanks.  Appreciate it.
+L2732 +++$+++ u36 +++$+++ m2 +++$+++ LEON +++$+++ No.  Go ahead.
+L2773 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Your civil rights?!  You tried to rob me!  I could arrest you right now! You're lucky you're walking away from this.  Now get outta here.
+L2772 +++$+++ u40 +++$+++ m2 +++$+++ MUGGER +++$+++ A dog pissed on me!!  I'm gonna sue you for this!  You violated my civil rights!
+L2771 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ You okay?
+L2707 +++$+++ u40 +++$+++ m2 +++$+++ MUGGER +++$+++ Hey.  C'mon, you can't leave me like this.  Some freak'll come by and stab me!
+L2706 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ I'll send a cop back for you.
+L2703 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Oh yeah?  Guess again.
+L2702 +++$+++ u40 +++$+++ m2 +++$+++ MUGGER +++$+++ Fire Department?  Firemen don't carry guns.
+L2701 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Okay, you're under arrest!  Now you happy?
+L2700 +++$+++ u40 +++$+++ m2 +++$+++ MUGGER +++$+++ Alright, how 'bout all your fuckin' money?
+L2699 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Look, I don't have time for you, get out of my way!!
+L2698 +++$+++ u40 +++$+++ m2 +++$+++ MUGGER +++$+++ Got any spare change?  How 'bout a spare twenty?
+L2813 +++$+++ u38 +++$+++ m2 +++$+++ MAX +++$+++ Hey, by the way, I'm really sorry about your wife leavin' you.
+L2812 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Yeah?  What kind?
+L2811 +++$+++ u38 +++$+++ m2 +++$+++ MAX +++$+++ I used an accelerant.
+L2810 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ How did you start the fire this time?
+L2809 +++$+++ u38 +++$+++ m2 +++$+++ MAX +++$+++ Yeah, I'm religious.  I'm not an Atheist like you!  Now, are you guys gonna arrest me, or not?
+L2808 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ What's that on your forehead, Max? That's a nice attention getter.
+L3344 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ They were inside.  They booby trapped her apartment!
+L3343 +++$+++ u35 +++$+++ m2 +++$+++ KORFIN +++$+++ What the hell happened?
+L3342 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Get outta here!
+L3288 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Not good.
+L3287 +++$+++ u35 +++$+++ m2 +++$+++ KORFIN +++$+++ How was it?
+L3026 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Lay down.  Stay down, Bobby.
+L3025 +++$+++ u35 +++$+++ m2 +++$+++ KORFIN +++$+++ It hurts.  Aw, Jesus!
+L3024 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Bobby, Bobby!  Where're you hit?!
+L2872 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ If I go home I won't be able to fall asleep anyway.
+L2871 +++$+++ u35 +++$+++ m2 +++$+++ KORFIN +++$+++ Aren't you tired?
+L2870 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ You go home.  I'm takin' your car and goin' back to the crime scene.
+L2865 +++$+++ u35 +++$+++ m2 +++$+++ KORFIN +++$+++ You hear that question, Garcia?
+L2864 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ How long they been livin' here?
+L2863 +++$+++ u35 +++$+++ m2 +++$+++ KORFIN +++$+++ -- From Czechoslovakia?  And how long have they been livin' in your building?  Alright, I'll be in touch when we know somethin'.  Milos and Tamina Karlova.  They were quiet and kept to themselves.  Landlord don't know who your girl is.
+L2795 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Maybe you can be his stand-in.
+L2794 +++$+++ u35 +++$+++ m2 +++$+++ KORFIN +++$+++ Yeah?
+L2793 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Now that you know him, maybe you can get extra work in the next movie they make about him.
+L2768 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ There was a woman - I think she wanted to talk to us.  She looked scared.  Oh shit!  Oh no!
+L2767 +++$+++ u35 +++$+++ m2 +++$+++ KORFIN +++$+++ What?
+L2757 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ That's why he was so quiet.  He was testing us.
+L2756 +++$+++ u35 +++$+++ m2 +++$+++ KORFIN +++$+++ What??
+L2755 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ He knew all along.
+L2754 +++$+++ u35 +++$+++ m2 +++$+++ KORFIN +++$+++ You see Eddie's face when I gave him the timer?  Wish I had a picture of it.
+L2739 +++$+++ u35 +++$+++ m2 +++$+++ KORFIN +++$+++ But you knew that, right?
+L2738 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ The smoke'll permeate your nostrils - burn 'em out.  Let it run.
+L2737 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Don't blow your nose!
+L2736 +++$+++ u35 +++$+++ m2 +++$+++ KORFIN +++$+++ Clean?
+L2735 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Mouth's clean, too.
+L2725 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Could you put out the cigar?  Part of the job is picking up scents.
+L2724 +++$+++ u35 +++$+++ m2 +++$+++ KORFIN +++$+++ Nah, not at all.  Detective Flemming - Bobby Korfin.  My Uncle Tony worked with you at 2-1 back when you were a rookie.
+L2721 +++$+++ u35 +++$+++ m2 +++$+++ KORFIN +++$+++ 'Cause Eddie woulda locked him up by now!
+L2720 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Oh yeah, why?
+L2719 +++$+++ u35 +++$+++ m2 +++$+++ KORFIN +++$+++ Naw - I'm sure the suspect's not here.
+L2718 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ You see anything in the crowd?  Anybody suspicious?
+L2717 +++$+++ u35 +++$+++ m2 +++$+++ KORFIN +++$+++ I don't know, you think Eddie will give me his autograph?
+L2716 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ I heard.  Who the hell let them up there?
+L2715 +++$+++ u35 +++$+++ m2 +++$+++ KORFIN +++$+++ Where you been, man?  We got a celebrity!
+L3427 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ GET OUTTA HERE NOW!!  GET IN THAT CAR AND DRIVE AWAY!!!  DO WHAT I SAY OR I'LL KILL YOU, TOO!!!
+L3426 +++$+++ u47 +++$+++ m2 +++$+++ TOMMY +++$+++ Look, you can't shoot him in cold blood.
+L3425 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Take the car.  Get outta here, Tommy.
+L3424 +++$+++ u47 +++$+++ m2 +++$+++ TOMMY +++$+++ Don't stoop to his level!
+L3423 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Don't you get it?  He knew he was gonna get caught!  That's why he videotaped Eddie's murder - he thinks he's gonna get off.
+L3422 +++$+++ u47 +++$+++ m2 +++$+++ TOMMY +++$+++ What are you gonna do?
+L2930 +++$+++ u47 +++$+++ m2 +++$+++ TOMMY +++$+++ The clerk?
+L2929 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Capra?  That's not Czech or Russian. Who said he sounded Russian?
+L2928 +++$+++ u47 +++$+++ m2 +++$+++ TOMMY +++$+++ Room was registered to a Francis Capra.
+L2840 +++$+++ u46 +++$+++ m2 +++$+++ STEPHEN GELLER +++$+++ That doesn't apply to me because I'm not a criminal.  I'm not a criminal!  I wasn't convicted.
+L2839 +++$+++ u43 +++$+++ m2 +++$+++ ROBERT HAWKINS +++$+++ But doesn't the Son of Sam Law prevent criminals from profiting from their crimes?
+L2838 +++$+++ u46 +++$+++ m2 +++$+++ STEPHEN GELLER +++$+++ We're in negotiations, that's correct.
+L2837 +++$+++ u43 +++$+++ m2 +++$+++ ROBERT HAWKINS +++$+++ And isn't there a movie in the works about you?
+L2836 +++$+++ u46 +++$+++ m2 +++$+++ STEPHEN GELLER +++$+++ Look, I'm in here.  You call this a career move?
+L2835 +++$+++ u43 +++$+++ m2 +++$+++ ROBERT HAWKINS +++$+++ Permanently disrupted?  Aren't you selling paintings now for quite a lot of money?  Hasn't this 'incident' as you call it, jump started your career as an artist?
+L2834 +++$+++ u46 +++$+++ m2 +++$+++ STEPHEN GELLER +++$+++ Look, I'm a victim here, too.  I was a year away from getting my masters in Art, now I'll never graduate.  My life has been permanently disrupted.
+L2833 +++$+++ u43 +++$+++ m2 +++$+++ ROBERT HAWKINS +++$+++ You seem very savvy for a man who's been found mentally incompetent to stand trial.
+L2832 +++$+++ u46 +++$+++ m2 +++$+++ STEPHEN GELLER +++$+++ It was my finger that pulled the trigger, but I'm not morally responsible.  My psychiatrist knew what I was capable of.  How could I know. I'm not a doctor.
+L2831 +++$+++ u43 +++$+++ m2 +++$+++ ROBERT HAWKINS +++$+++ ...so you feel absolutely no responsibility for killing these people?
+L2830 +++$+++ u46 +++$+++ m2 +++$+++ STEPHEN GELLER +++$+++ Yes.  My psychiatrist didn't insist that I stay on my medication.
+L2829 +++$+++ u43 +++$+++ m2 +++$+++ ROBERT HAWKINS +++$+++ Your doctor?
+L2828 +++$+++ u46 +++$+++ m2 +++$+++ STEPHEN GELLER +++$+++ This had nothing to do with shoes that didn't fit or my relationship with my father who, as you know, made a fortune selling penny loafers in the fifties. These people died because of the criminal actions of my doctor.
